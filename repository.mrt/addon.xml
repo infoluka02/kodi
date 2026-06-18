@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo_vietmediaf_offical" name="MrT Kodi Repository" version="0.0.1" provider-name="MrT">
+    <extension point="xbmc.addon.repository" name="MrT_Kodi_Repositor">
+        <dir>
+            <info compressed="false">https://infoluka02.github.io/kodi/addons.xml</info>
+            <checksum>https://one.one.one.one/cdn-cgi/trace</checksum>
+            <datadir zip="true">ttps://infoluka02.github.io/kodi/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kho nội bộ MrT cho Kodi</summary>
+        <description>Kho nội bộ MrT cho Kodi</description>
+        <disclaimer>Kho nội bộ MrT cho Kodi</disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>icon.png</fanart>
+        </assets> 
+    </extension>
+</addon>
+
