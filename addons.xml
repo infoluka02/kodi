@@ -195,9 +195,9 @@
         <import addon="script.embuary.helper" version="1.2.14" />
         <import addon="plugin.video.themoviedb.helper" version="0.0.1" />
     </requires>
-    <extension point="xbmc.gui.skin" defaultthemename="Textures.xbt" debugging="false" effectslowdown="1">
-        <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
-    </extension>
+    <extension point="xbmc.gui.skin" library="1080i" defaultthemename="Textures.xbt">
+    <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
+</extension>
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <license>Creative Commons Non Commercial 3.0 License</license>
