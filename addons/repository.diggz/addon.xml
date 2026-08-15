@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.diggz" name="Diggz Repository" version="28" provider-name="Diggz">
+<addon id="repository.diggz" name="Diggz Repository" version="28.0.0" provider-name="Diggz">
     <extension point="xbmc.addon.repository" name="Diggz Repository">
         <dir minversion="21.90.0">
             <info compressed="false">https://raw.githubusercontent.com/nebulous42069/22/master/22/zips/addons.xml</info>
