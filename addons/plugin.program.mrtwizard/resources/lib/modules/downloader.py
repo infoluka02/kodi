@@ -1,6 +1,6 @@
 import os
 import sys
-import requests
+from urllib.request import Request, urlopen
 import xbmc
 import xbmcgui
 import xbmcaddon
@@ -16,31 +16,14 @@ class Downloader:
         self.headers = {"User-Agent": self.user_agent}
         
     def get_urllib(self, decoding=True):
-        headers = {
-            "User-Agent": self.user_agent,
-            "Accept": "*/*",
-            "Referer": "https://github.com/",
-            "Connection": "keep-alive"
-        }
-
-        response = requests.get(
-            self.url,
-            headers=headers,
-            stream=not decoding,
-            allow_redirects=True,
-            timeout=30
-        )
-
-        response.raise_for_status()
-
+        req = Request(self.url, headers = self.headers)
         if decoding:
-            return response.text
-
-        return response
+            return urlopen(req).read().decode('utf-8')
+        return urlopen(req)
     
     def get_length(self, response):
         try:
-            return response.headers.get('content-length')
+            return response.getheader('content-length')
         except KeyError:
             return None
     
@@ -62,7 +45,7 @@ class Downloader:
         with open(zippath, 'wb') as f:
             if length is not None:
                 while True:
-                    chunk = next(response.iter_content(chunksize), b'')
+                    chunk = response.read(chunksize)
                     if not chunk:
                         break
                     size += len(chunk)

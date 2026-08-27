@@ -4,9 +4,11 @@ import xbmc
 import xbmcgui
 import xbmcplugin
 from .utils import add_dir
-from uservar import buildfile, videos_url
+from uservar import buildfile, videos_url, changelog_dir
 from .parser import XmlParser, TextParser, get_page
-from .addonvar import addon_name, setting, addon_icon, addon_fanart, local_string, authorize, kodi_ver, kodi_versions, UPDATE_VERSION, CURRENT_BUILD, BUILD_VERSION
+from .addonvar import (addon_name, setting, addon_icon, addon_fanart, local_string, authorize, kodi_ver,
+                       build_ver, build_date, kodi_versions, sys_arch, os_name, code_name, UPDATE_VERSION,
+                       CURRENT_BUILD, BUILD_VERSION, NUM_BUILDS)
 from .colors import colors
 
 HANDLE = int(sys.argv[1])
@@ -21,19 +23,25 @@ def main_menu():
 
     add_dir(COLOR1(f'<><> [B]Welcome to {addon_name}[/B] <><>'), '', '', addon_icon, addon_fanart, COLOR1(f'Welcome to {addon_name}'), isFolder=False)
 
-    if UPDATE_VERSION > BUILD_VERSION:
-        add_dir(COLOR3(f'[B]Build Update Available!!![/B]   [{CURRENT_BUILD} v{UPDATE_VERSION}]'), '', 31, addon_icon, addon_fanart, COLOR2(local_string(30110)), isFolder=False)  # Build Update Available
-        
-    elif CURRENT_BUILD not in ['No Build Installed', 'No Build']:
-        add_dir(COLOR4(f'Installed Build:   {CURRENT_BUILD} v{BUILD_VERSION}'), '', '', addon_icon, addon_fanart, COLOR2(local_string(30111)), isFolder=False)  # Installed Build
-    
-    add_dir(COLOR2(local_string(30010)), '', 1, addon_icon, addon_fanart, COLOR2(local_string(30001)), isFolder=True)  # Build Menu
+    if setting('showinstalledbuild') == 'true':
+        if UPDATE_VERSION > BUILD_VERSION:
+            add_dir(COLOR3(f'[B]Update Available!!![/B]   [{CURRENT_BUILD} v{UPDATE_VERSION}]'), '', 32, addon_icon, addon_fanart, COLOR2(local_string(30110)), isFolder=False)  # Build Update Available
+            
+        elif CURRENT_BUILD not in ['No Build Installed', 'No Build']:
+            add_dir(COLOR4(f'Installed Build: {CURRENT_BUILD} v{BUILD_VERSION}'), '', '', addon_icon, addon_fanart, COLOR2(local_string(30111)), isFolder=False)  # Installed Build
+
+    if setting('showkodistats') == 'true':
+        add_dir(COLOR4(f'Kodi {code_name} v{kodi_ver}'), '', '', addon_icon, addon_fanart, COLOR2(f'Release Date: {build_date}\n\nFull Version:\n{build_ver}'), isFolder=False) # Kodi Version
+        add_dir(COLOR4(f'{os_name} OS {sys_arch}'), '', '', addon_icon, addon_fanart, COLOR2(f'Current Operating System'), isFolder=False) # Operating System
+
+    build_menu_label = 'Build Menu' if NUM_BUILDS == 0 or buildfile in ('', 'http://CHANGEME') else f'Build Menu ({NUM_BUILDS} Builds)'
+    add_dir(COLOR2(build_menu_label), '', 1, addon_icon, addon_fanart, COLOR2(local_string(30001)), isFolder=True)  # Build Menu
     
     add_dir(COLOR2(local_string(30011)), '', 5, addon_icon, addon_fanart, COLOR2(local_string(30002)), isFolder=True)  # Maintenance Menu
     
     add_dir(COLOR2(local_string(30026)),'',10,addon_icon,addon_fanart,COLOR2(local_string(30026)))  # Authorize Debrid Services
 
-    if CURRENT_BUILD not in ['No Build Installed', 'No Build']:
+    if changelog_dir not in ['', 'http://', 'http://CHANGEME/'] and CURRENT_BUILD not in ['No Build Installed', 'No Build']:
         add_dir(COLOR2(f'View Build Changelog'), '', 101, addon_icon, addon_fanart, COLOR2(local_string(30109)), isFolder=False)  # View Build Changelog
     
     add_dir(COLOR2(local_string(30013)), '', 100, addon_icon, addon_fanart, COLOR2(local_string(30014)), isFolder=False)  # View Notification
@@ -121,6 +129,7 @@ def submenu_maintenance():
         add_dir(COLOR2(local_string(30112)),'',31,addon_icon,addon_fanart,COLOR2(local_string(30009)),isFolder=False)  # Advanced Settings K22
     add_dir(COLOR2(local_string(30064)),'',11,addon_icon,addon_fanart,COLOR2(local_string(30064)), isFolder=False)  # Edit Whitelist
     add_dir(COLOR2('Backup/Restore Build'),'',12,addon_icon,addon_fanart, COLOR2('Backup and Restore Build'))  # Backup Build
+    add_dir(COLOR2('Backup/Restore GUI & Skin Settings'),'',19,addon_icon,addon_fanart,COLOR2('Backup/Restore GUI & Skin Settings'))
     add_dir(COLOR2('Force Close'),'', 18, addon_icon,addon_fanart,COLOR2('Force Close Kodi'), isFolder=False)
     add_dir(COLOR2('Speedtest'),'',28,addon_icon,addon_fanart,COLOR2('Speedtest'), isFolder=False)
     add_dir(COLOR2('View Log'),'', 26, addon_icon,addon_fanart,COLOR2('View Log'), isFolder=False)
@@ -135,6 +144,7 @@ def backup_restore():
 
 def restore_gui_skin():
     add_dir(COLOR1('<><> [B]Backup/Restore GUI & Skin Settings[/B] <><>'),'','',addon_icon,addon_fanart, COLOR1('Backup/Restore'), isFolder=False)
+    add_dir(COLOR2('Backup GUI & Skin Settings'),'',22,addon_icon,addon_fanart,COLOR2('Backup GUI & Skin Settings'), isFolder=False)
     add_dir(COLOR2('Restore GUI Settings'),'',23, addon_icon,addon_fanart, COLOR2('Restore Your GUI Settings'), isFolder=False)
     add_dir(COLOR2('Restore Skin Settings'),'',24, addon_icon,addon_fanart, COLOR2('Restore Your Skin Settings'), isFolder=False)
     add_dir(COLOR2('Restore Build Default GUI Settings'),'',20,addon_icon,addon_fanart,COLOR2('Restore GUI Settings'), isFolder=False)  

@@ -4,8 +4,10 @@ import xbmc
 import xbmcgui
 from uservar import notify_url, changelog_dir
 from .maintenance import clear_packages_startup
-from .addonvar import setting, setting_set, addon_name, addon_icon, isBase64, headers, dialog, local_string, addon_id, gui_save_default, UPDATE_VERSION, CURRENT_BUILD, CURRENT_VERSION, BUILD_URL
-from .build_install import restore_binary, binaries_path, build_install
+from .addonvar import (setting, setting_set, addon_name, addon_icon, isBase64, headers,
+                       dialog, local_string, addon_id, gui_save_default, UPDATE_VERSION,
+                       CURRENT_BUILD, CURRENT_VERSION, BUILD_URL)
+from .build_install import build_install
 from .addons_enable import enable_addons
 from .save_data import backup_gui_skin
 from . import  notify
@@ -52,7 +54,7 @@ class Startup:
                            setting_set('update_passed', 'true')
                        
                    elif update_available == 2:
-                       if changelog_dir == 'http://CHANGEME' or '':
+                       if changelog_dir in ('', 'http://', 'http://CHANGEME/'):
                            xbmcgui.Dialog().notification(addon_name, 'No Changelog to Display!!', addon_icon, 3000)
                            Startup().check_updates()
                        else:
@@ -80,11 +82,21 @@ class Startup:
             preselect.append(2)
         else:
             choices.append('Advanced Settings')
+        if setting('savegui') == 'true':
+            choices.append('[I]GUI Settings[/I][TABS]6[/TABS][Preselected]')
+            preselect.append(3)
+        else:
+            choices.append('GUI Settings')
         if setting('savefavs') == 'true':
             choices.append('[I]Favourites[/I][TABS]7[/TABS][Preselected]')
             preselect.append(4)
         else:
             choices.append('Favourites')
+        if setting('savesources') == 'true':
+            choices.append('[I]Sources[/I][TABS]7[/TABS][Preselected]')
+            preselect.append(5)
+        else:
+            choices.append('Sources')
         save_select = dialog.multiselect(
             f'{addon_name} - {local_string(30052)}',
             choices,
@@ -115,6 +127,13 @@ class Startup:
             setting_set('saveadvanced', 'true')
         else:
             setting_set('saveadvanced', 'false')
+
+        if 'GUI Settings' in save_items:
+            setting_set('savegui', 'true')
+        elif '[I]GUI Settings[/I][TABS]6[/TABS][Preselected]' in save_items:
+            setting_set('savegui', 'true')
+        else:
+            setting_set('savegui', 'false')
             
         if 'Favourites' in save_items:
             setting_set('savefavs', 'true')
@@ -122,6 +141,13 @@ class Startup:
             setting_set('savefavs', 'true')
         else:
             setting_set('savefavs', 'false')
+            
+        if 'Sources' in save_items:
+            setting_set('savesources', 'true')
+        elif '[I]Sources[/I][TABS]7[/TABS][Preselected]' in save_items:
+            setting_set('savesources', 'true')
+        else:
+            setting_set('savesources', 'false')
   
         setting_set('firstrunSave', 'true')
 
@@ -139,16 +165,16 @@ class Startup:
             setting_set('notifyversion', str(notify_version))
     
     def run_startup(self):
+        if setting('firstrunSave') != 'true':
+            self.save_menu()
+            xbmc.sleep(2000)
         if setting('firstrun') == 'true':
             enable_addons()
             backup_gui_skin(gui_save_default)
             setting_set('firstrun', 'false')
         else:
-            if setting('autoclearpackages') == 'true':
-                clear_packages_startup()
+            clear_packages_startup()
             xbmc.sleep(1000)
             self.notify_check()
             xbmc.sleep(3000)  # Delay Build Update Notification
             self.check_updates()
-        if binaries_path.exists():
-            restore_binary()
