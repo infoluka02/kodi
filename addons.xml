@@ -37,9 +37,11 @@
 		<assets>
 				<icon>resources/icon.png</icon>
 				<fanart>resources/fanart.jpg</fanart>
-				<banner />
-				<clearlogo />
-				<screenshot />
+				<banner>resources/fanart.jpg</banner>
+				<clearlogo>resources/icon.png</clearlogo>
+				<screenshot>resources/fanart.jpg</screenshot>
+				<screenshot>resources/fanart.jpg</screenshot>
+				<screenshot>resources/fanart.jpg</screenshot>
 		</assets>
 	</extension>
 </addon><addon id="repository.castagnait" name="CastagnaIT Repository" version="2.0.1" provider-name="castagnait">

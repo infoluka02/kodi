@@ -23,9 +23,11 @@
 		<assets>
 				<icon>resources/icon.png</icon>
 				<fanart>resources/fanart.jpg</fanart>
-				<banner></banner>
-				<clearlogo></clearlogo>
-				<screenshot></screenshot>
+				<banner>resources/fanart.jpg</banner>
+				<clearlogo>resources/icon.png</clearlogo>
+				<screenshot>resources/fanart.jpg</screenshot>
+				<screenshot>resources/fanart.jpg</screenshot>
+				<screenshot>resources/fanart.jpg</screenshot>
 		</assets>
 	</extension>
 </addon>
