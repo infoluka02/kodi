@@ -210,7 +210,7 @@
             <icon>icon.png</icon>
         </assets>
     </extension>
-</addon><addon id="repository.mrt" name="MrT Kodi Repository" version="1.0.3" provider-name="MrT">
+</addon><addon id="repository.mrt" name="MrT Kodi Repository" version="1.0.4" provider-name="MrT">
     <extension point="xbmc.addon.repository" name="MrT Kodi Repository">
         <dir>
             <info compressed="false">https://infoluka02.github.io/kodi/addons.xml</info>
@@ -225,7 +225,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Kho lưu trữ nội bộ MrT, remove openwizard, remove chef wz</summary>
+        <summary>Kho lưu trữ nội bộ MrT, remove openwizard, remove chef wz, add plugin elementum host</summary>
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
