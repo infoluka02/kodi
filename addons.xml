@@ -220,7 +220,7 @@
         <dir>
             <info compressed="false">https://infoluka02.github.io/kodi/addons2.xml</info>
             <checksum>https://infoluka02.github.io/kodi/addons2.xml.md5</checksum>
-            <datadir zip="true">https://pr.fsel.edu.vn/kodi/</datadir>
+            <datadir zip="true">https://pr.fsel.vn/kodi/</datadir>
             <hashes>false</hashes>
         </dir>
     </extension>
