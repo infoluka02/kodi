@@ -6,6 +6,12 @@
             <checksum>https://infoluka02.github.io/kodi/addons.xml.md5</checksum>
             <datadir zip="true">https://infoluka02.github.io/kodi/</datadir>
         </dir>
+        <dir>
+            <info compressed="false">https://infoluka02.github.io/kodi/elementum.xml</info>
+            <checksum>https://infoluka02.github.io/kodi/elementum.xml.md5</checksum>
+            <datadir zip="true">https://link.fsel.edu.vn/kodi/</datadir>
+            <hashes>false</hashes>
+        </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Kho lưu trữ nội bộ MrT, remove openwizard, remove chef wz</summary>
