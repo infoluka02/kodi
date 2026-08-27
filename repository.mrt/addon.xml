@@ -1,5 +1,5 @@
 <?xml version="1.1" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.mrt" name="MrT Kodi Repository" version="1.0.4" provider-name="MrT">
+<addon id="repository.mrt" name="MrT Kodi Repository" version="1.0.5" provider-name="MrT">
     <extension point="xbmc.addon.repository" name="MrT Kodi Repository">
         <dir>
             <info compressed="false">https://infoluka02.github.io/kodi/addons.xml</info>
@@ -7,9 +7,9 @@
             <datadir zip="true">https://infoluka02.github.io/kodi/</datadir>
         </dir>
         <dir>
-            <info compressed="false">https://infoluka02.github.io/kodi/elementum.xml</info>
-            <checksum>https://infoluka02.github.io/kodi/elementum.xml.md5</checksum>
-            <datadir zip="true">https://link.fsel.edu.vn/kodi/</datadir>
+            <info compressed="false">https://infoluka02.github.io/kodi/addons2.xml</info>
+            <checksum>https://infoluka02.github.io/kodi/addons2.xml.md5</checksum>
+            <datadir zip="true">https://pr.fsel.edu.vn/kodi/</datadir>
             <hashes>false</hashes>
         </dir>
     </extension>
