@@ -21,13 +21,13 @@
 		<source></source>
 		<news></news>
 		<assets>
-				<icon>resources/icon.png</icon>
-				<fanart>resources/fanart.jpg</fanart>
-				<banner>resources/fanart.jpg</banner>
-				<clearlogo>resources/icon.png</clearlogo>
-				<screenshot>resources/fanart.jpg</screenshot>
-				<screenshot>resources/fanart.jpg</screenshot>
-				<screenshot>resources/fanart.jpg</screenshot>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+				<banner>fanart.jpg</banner>
+				<clearlogo>icon.png</clearlogo>
+				<screenshot>fanart.jpg</screenshot>
+				<screenshot>fanart.jpg</screenshot>
+				<screenshot>fanart.jpg</screenshot>
 		</assets>
 	</extension>
 </addon>
