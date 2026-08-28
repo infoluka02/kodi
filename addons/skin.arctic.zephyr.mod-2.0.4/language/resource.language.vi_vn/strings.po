@@ -27,183 +27,183 @@ msgstr "Sao lưu/Khôi phục"
 
 msgctxt "#31002"
 msgid "Animated posters"
-msgstr ""
+msgstr "Ảnh áp phích động"
 
 msgctxt "#31003"
 msgid "Animated fanarts"
-msgstr ""
+msgstr "Ảnh fanart động"
 
 msgctxt "#31004"
 msgid "Show discart (fanart views)"
-msgstr ""
+msgstr "Hiển thị đĩa (chế độ xem fanart)"
 
 msgctxt "#31005"
 msgid "Alternate case (fanart views)"
-msgstr ""
+msgstr "Vỏ đĩa xen kẽ (chế độ xem fanart)"
 
 msgctxt "#31006"
 msgid "Alternate status-overlays (fanart views)"
-msgstr ""
+msgstr "Lớp phủ trạng thái xen kẽ (chế độ xem fanart)"
 
 msgctxt "#31007"
 msgid "Title-overlays (symbols-view, deprecated)"
-msgstr ""
+msgstr "Lớp phủ tiêu đề (chế độ xem biểu tượng, không khuyên dùng)"
 
 msgctxt "#31008"
 msgid "Show progress graphic"
-msgstr ""
+msgstr "Hiển thị đồ họa tiến trình"
 
 msgctxt "#31009"
 msgid "Scroll entire page"
-msgstr ""
+msgstr "Cuộn toàn trang"
 
 msgctxt "#31010"
 msgid "Alternate case"
-msgstr ""
+msgstr "Vỏ đĩa xen kẽ"
 
 msgctxt "#31011"
 msgid "Show CD and case"
-msgstr ""
+msgstr "Hiển thị đĩa CD và vỏ"
 
 msgctxt "#31012"
 msgid "Hide border"
-msgstr ""
+msgstr "Ẩn viền"
 
 msgctxt "#31013"
 msgid "Feature ends at"
-msgstr ""
+msgstr "Kết thúc tính năng lúc"
 
 msgctxt "#31014"
 msgid "Netflix"
-msgstr ""
+msgstr "Netflix"
 
 msgctxt "#31015"
 msgid "Modern Fanart"
-msgstr ""
+msgstr "Fanart Hiện đại"
 
 msgctxt "#31016"
 msgid "Old view selector"
-msgstr ""
+msgstr "Bộ chọn chế độ xem cũ"
 
 msgctxt "#31017"
 msgid "Colored icon media flags"
-msgstr ""
+msgstr "Cờ thông tin đa phương tiện biểu tượng màu"
 
 msgctxt "#31018"
 msgid "Arctic: Zephyr - Reloaded"
-msgstr ""
+msgstr "Arctic: Zephyr - Reloaded"
 
 msgctxt "#31019"
 msgid "Supported Addons"
-msgstr ""
+msgstr "Tiện ích được hỗ trợ"
 
 msgctxt "#31020"
 msgid "Resources"
-msgstr ""
+msgstr "Tài nguyên"
 
 msgctxt "#31021"
 msgid "Hide widget title"
-msgstr ""
+msgstr "Ẩn tiêu đề tiện ích con (widget)"
 
 msgctxt "#31022"
 msgid "Video Infodialog"
-msgstr ""
+msgstr "Hộp thoại thông tin Video"
 
 msgctxt "#31023"
 msgid "Awards"
-msgstr ""
+msgstr "Giải thưởng"
 
 msgctxt "#31024"
 msgid "Show clearlogo left bottom position (classic view only)"
-msgstr ""
+msgstr "Hiển thị clearlogo ở góc dưới bên trái (chỉ chế độ xem cổ điển)"
 
 msgctxt "#31025"
 msgid "Show clearLogo"
-msgstr ""
+msgstr "Hiển thị clearLogo"
 
 msgctxt "#31026"
 msgid "Videolyrics"
-msgstr ""
+msgstr "Lời bài hát video"
 
 msgctxt "#31027"
 msgid "Shifted"
-msgstr ""
+msgstr "Đã dịch chuyển"
 
 msgctxt "#31028"
 msgid "Widgets fade animation"
-msgstr ""
+msgstr "Hoạt ảnh mờ dần tiện ích con"
 
 msgctxt "#31029"
 msgid "Autoscrolling widget plot"
-msgstr ""
+msgstr "Tự động cuộn cốt truyện trong tiện ích con"
 
 msgctxt "#31030"
 msgid "movies in the library"
-msgstr ""
+msgstr "phim trong thư viện"
 
 msgctxt "#31031"
 msgid "Use fanart instead of landscape on tvshows"
-msgstr ""
+msgstr "Sử dụng fanart thay vì ảnh ngang trên chương trình TV"
 
 msgctxt "#31032"
 msgid "Use fanart instead of landscape on movies"
-msgstr ""
+msgstr "Sử dụng fanart thay vì ảnh ngang trên phim"
 
 msgctxt "#31033"
 msgid "Use fanart instead of landscape on seasons"
-msgstr ""
+msgstr "Sử dụng fanart thay vì ảnh ngang trên phần phim"
 
 msgctxt "#31034"
 msgid "Hide bar/CD on lyrics"
-msgstr ""
+msgstr "Ẩn thanh/CD trên lời bài hát"
 
 msgctxt "#31035"
 msgid "Show PVR technical info"
-msgstr ""
+msgstr "Hiển thị thông tin kỹ thuật PVR"
 
 msgctxt "#31036"
 msgid "Fullscreen Fanart"
-msgstr ""
+msgstr "Fanart toàn màn hình"
 
 msgctxt "#31037"
 msgid "Extended Info"
-msgstr ""
+msgstr "Thông tin mở rộng"
 
 msgctxt "#31038"
 msgid "Hide filename and path"
-msgstr ""
+msgstr "Ẩn tên tập tin và đường dẫn"
 
 msgctxt "#31039"
 msgid "IPTV Recorder"
-msgstr ""
+msgstr "Máy ghi IPTV"
 
 msgctxt "#31040"
 msgid "Recordings"
-msgstr ""
+msgstr "Bản ghi"
 
 msgctxt "#31041"
 msgid "Hide actor images"
-msgstr ""
+msgstr "Ẩn hình ảnh diễn viên"
 
 msgctxt "#31042"
 msgid "Add-On Widgets"
-msgstr ""
+msgstr "Tiện ích con của Add-On"
 
 msgctxt "#31043"
 msgid "Last Played Channels"
-msgstr ""
+msgstr "Kênh vừa xem"
 
 msgctxt "#31044"
 msgid "All Channels"
-msgstr ""
+msgstr "Tất cả các kênh"
 
 msgctxt "#31045"
 msgid "New Movies"
-msgstr ""
+msgstr "Phim mới"
 
 msgctxt "#31046"
 msgid "Recently Played Movies"
-msgstr ""
+msgstr "Phim vừa xem"
 
 msgctxt "#31047"
 msgid "Random Movies"
@@ -211,203 +211,203 @@ msgstr "Phim ngẫu nhiên"
 
 msgctxt "#31048"
 msgid "In Progress Movies"
-msgstr ""
+msgstr "Phim đang xem"
 
 msgctxt "#31049"
 msgid "Top Rated Movies"
-msgstr ""
+msgstr "Phim được đánh giá cao nhất"
 
 msgctxt "#31050"
 msgid "Top 250 Movies"
-msgstr ""
+msgstr "Top 250 phim"
 
 msgctxt "#31051"
 msgid "Unwatched Movies"
-msgstr ""
+msgstr "Phim chưa xem"
 
 msgctxt "#31052"
 msgid "Movie Sets"
-msgstr ""
+msgstr "Bộ sưu tập phim"
 
 msgctxt "#31053"
 msgid "New Tv Shows"
-msgstr ""
+msgstr "Chương trình TV mới"
 
 msgctxt "#31054"
 msgid "Recently Watched TV Shows"
-msgstr ""
+msgstr "Chương trình TV vừa xem"
 
 msgctxt "#31056"
 msgid "Random Tv Shows"
-msgstr ""
+msgstr "Chương trình TV ngẫu nhiên"
 
 msgctxt "#31057"
 msgid "Top Rated Tv Shows"
-msgstr ""
+msgstr "Chương trình TV được đánh giá cao nhất"
 
 msgctxt "#31058"
 msgid "New Episodes"
-msgstr ""
+msgstr "Tập phim mới"
 
 msgctxt "#31059"
 msgid "Recently Played Episodes"
-msgstr ""
+msgstr "Tập phim vừa xem"
 
 msgctxt "#31060"
 msgid "Random Episodes"
-msgstr ""
+msgstr "Tập phim ngẫu nhiên"
 
 msgctxt "#31061"
 msgid "Unwatched Episodes"
-msgstr ""
+msgstr "Tập phim chưa xem"
 
 msgctxt "#31062"
 msgid "In Progress Episodes"
-msgstr ""
+msgstr "Tập phim đang xem"
 
 msgctxt "#31063"
 msgid "Top Rated Episodes"
-msgstr ""
+msgstr "Tập phim được đánh giá cao nhất"
 
 msgctxt "#31064"
 msgid "New Albums"
-msgstr ""
+msgstr "Album mới"
 
 msgctxt "#31065"
 msgid "Recently Played Albums"
-msgstr ""
+msgstr "Album vừa nghe"
 
 msgctxt "#31066"
 msgid "Top Albums"
-msgstr ""
+msgstr "Album hàng đầu"
 
 msgctxt "#31067"
 msgid "Random Albums"
-msgstr ""
+msgstr "Album ngẫu nhiên"
 
 msgctxt "#31068"
 msgid "Random Artists"
-msgstr ""
+msgstr "Nghệ sĩ ngẫu nhiên"
 
 msgctxt "#31071"
 msgid "Show fanart/landscape view"
-msgstr ""
+msgstr "Hiển thị chế độ xem fanart/ảnh ngang"
 
 msgctxt "#31072"
 msgid "Poster Flix"
-msgstr ""
+msgstr "Flix áp phích"
 
 msgctxt "#31073"
 msgid "Show clearlogo instead of title"
-msgstr ""
+msgstr "Hiển thị clearlogo thay vì tiêu đề"
 
 msgctxt "#31074"
 msgid "Enable blur"
-msgstr ""
+msgstr "Bật làm mờ"
 
 msgctxt "#31075"
 msgid "Effect also on home"
-msgstr ""
+msgstr "Hiệu ứng cũng hiển thị trên trang chủ"
 
 msgctxt "#31076"
 msgid "This view"
-msgstr ""
+msgstr "Chế độ xem này"
 
 msgctxt "#31077"
 msgid "Misc"
-msgstr ""
+msgstr "Khác"
 
 msgctxt "#31078"
 msgid "Global options"
-msgstr ""
+msgstr "Tùy chọn chung"
 
 msgctxt "#31079"
 msgid "Show discart"
-msgstr ""
+msgstr "Hiển thị đĩa"
 
 msgctxt "#31080"
 msgid "Fullsize fanart"
-msgstr ""
+msgstr "Fanart kích thước đầy đủ"
 
 msgctxt "#31081"
 msgid "Double-Flix"
-msgstr ""
+msgstr "Double-Flix"
 
 msgctxt "#31082"
 msgid "Flip poster/fanart"
-msgstr ""
+msgstr "Lật áp phích/fanart"
 
 msgctxt "#31083"
 msgid "Show list instead of posters"
-msgstr ""
+msgstr "Hiển thị danh sách thay vì áp phích"
 
 msgctxt "#31084"
 msgid "Show clearlogo on top instead on fanart"
-msgstr ""
+msgstr "Hiển thị clearlogo trên cùng thay vì trên fanart"
 
 msgctxt "#31085"
 msgid "Fanart & poster 2"
-msgstr ""
+msgstr "Fanart & áp phích 2"
 
 msgctxt "#31086"
 msgid "Show extended infos on list"
-msgstr ""
+msgstr "Hiển thị thông tin mở rộng trên danh sách"
 
 msgctxt "#31087"
 msgid "episodes watched"
-msgstr ""
+msgstr "tập đã xem"
 
 msgctxt "#31088"
 msgid "h"
-msgstr ""
+msgstr "g"
 
 msgctxt "#31089"
 msgid "m"
-msgstr ""
+msgstr "p"
 
 msgctxt "#31090"
 msgid "New time format"
-msgstr ""
+msgstr "Định dạng thời gian mới"
 
 msgctxt "#31091"
 msgid "Double-Flix Banner"
-msgstr ""
+msgstr "Băng rôn Double-Flix"
 
 msgctxt "#31092"
 msgid "Flip fanart/banner"
-msgstr ""
+msgstr "Lật fanart/băng rôn"
 
 msgctxt "#31093"
 msgid "Hourly forecast"
-msgstr ""
+msgstr "Dự báo hàng giờ"
 
 msgctxt "#31094"
 msgid "Next days forecast"
-msgstr ""
+msgstr "Dự báo những ngày tới"
 
 msgctxt "#31095"
 msgid "Show RSS Feed on home menu"
-msgstr ""
+msgstr "Hiển thị RSS Feed trên menu trang chủ"
 
 msgctxt "#31096"
 msgid "Show RSS Feed on top instead on bottom"
-msgstr ""
+msgstr "Hiển thị RSS Feed ở trên cùng thay vì dưới cùng"
 
 msgctxt "#31097"
 msgid "RSS Feed"
-msgstr ""
+msgstr "RSS Feed"
 
 msgctxt "#31098"
 msgid "Flip list and info"
-msgstr ""
+msgstr "Lật danh sách và thông tin"
 
 msgctxt "#31099"
 msgid "Vertical Shifted"
-msgstr ""
+msgstr "Dịch chuyển dọc"
 
 msgctxt "#31100"
 msgid "Defaults"
-msgstr ""
+msgstr "Mặc định"
 
 msgctxt "#31101"
 msgid "items"
@@ -415,7 +415,7 @@ msgstr "mục"
 
 msgctxt "#31102"
 msgid "min"
-msgstr ""
+msgstr "p"
 
 msgctxt "#31103"
 msgid "Live TV"
@@ -423,27 +423,27 @@ msgstr "TV trực tuyến"
 
 msgctxt "#31104"
 msgid "Used Memory"
-msgstr ""
+msgstr "Bộ nhớ đã dùng"
 
 msgctxt "#31105"
 msgid "Spotlight"
-msgstr ""
+msgstr "Tiêu điểm"
 
 msgctxt "#31106"
 msgid "Finishes at"
-msgstr ""
+msgstr "Kết thúc lúc"
 
 msgctxt "#31107"
 msgid "Video Stream"
-msgstr ""
+msgstr "Luồng video"
 
 msgctxt "#31108"
 msgid "Show original"
-msgstr ""
+msgstr "Hiển thị bản gốc"
 
 msgctxt "#31109"
 msgid "Customise home menu"
-msgstr ""
+msgstr "Tùy chỉnh menu trang chủ"
 
 msgctxt "#31110"
 msgid "Background"
@@ -451,43 +451,43 @@ msgstr "Hình nền"
 
 msgctxt "#31111"
 msgid "Show now playing video in background"
-msgstr ""
+msgstr "Hiển thị video đang phát trong nền"
 
 msgctxt "#31112"
 msgid "Submenu"
-msgstr ""
+msgstr "Menu con"
 
 msgctxt "#31113"
 msgid "No Timer"
-msgstr ""
+msgstr "Không có hẹn giờ"
 
 msgctxt "#31114"
 msgid "Show effect"
-msgstr ""
+msgstr "Hiển thị hiệu ứng"
 
 msgctxt "#31115"
 msgid "Show header"
-msgstr ""
+msgstr "Hiển thị tiêu đề đầu trang"
 
 msgctxt "#31116"
 msgid "DVD Menu"
-msgstr ""
+msgstr "Menu DVD"
 
 msgctxt "#31117"
 msgid "3D Mode"
-msgstr ""
+msgstr "Chế độ 3D"
 
 msgctxt "#31118"
 msgid "Show artist slideshow"
-msgstr ""
+msgstr "Hiển thị trình chiếu ảnh nghệ sĩ"
 
 msgctxt "#31119"
 msgid "Show visualisation behind slideshow"
-msgstr ""
+msgstr "Hiển thị hình ảnh trực quan phía sau trình chiếu ảnh"
 
 msgctxt "#31120"
 msgid "Animate artist slideshow"
-msgstr ""
+msgstr "Tạo hoạt ảnh cho trình chiếu ảnh nghệ sĩ"
 
 msgctxt "#31121"
 msgid "Show fanart"
@@ -495,131 +495,131 @@ msgstr "Hiển thị fanart"
 
 msgctxt "#31122"
 msgid "     Settings"
-msgstr ""
+msgstr "     Cài đặt"
 
 msgctxt "#31123"
 msgid "Change image"
-msgstr ""
+msgstr "Thay đổi hình ảnh"
 
 msgctxt "#31124"
 msgid "Blur radius"
-msgstr ""
+msgstr "Bán kính làm mờ"
 
 msgctxt "#31125"
 msgid "Set your favourite settings"
-msgstr ""
+msgstr "Thiết lập các cài đặt yêu thích của bạn"
 
 msgctxt "#31126"
 msgid "Accent colors"
-msgstr ""
+msgstr "Màu nhấn"
 
 msgctxt "#31127"
 msgid "default"
-msgstr ""
+msgstr "mặc định"
 
 msgctxt "#31128"
 msgid "Rating stars (media flags section)"
-msgstr ""
+msgstr "Sao xếp hạng (phần cờ thông tin đa phương tiện)"
 
 msgctxt "#31129"
 msgid "MPAA rating (media flags section)"
-msgstr ""
+msgstr "Xếp hạng MPAA (phần cờ thông tin đa phương tiện)"
 
 msgctxt "#31130"
 msgid "Focus squares"
-msgstr ""
+msgstr "Hình vuông tiêu điểm"
 
 msgctxt "#31131"
 msgid "Accents, highlights, focusbuttons"
-msgstr ""
+msgstr "Màu nhấn, điểm nổi bật, nút tiêu điểm"
 
 msgctxt "#31132"
 msgid "Userrating (media flags section)"
-msgstr ""
+msgstr "Xếp hạng của người dùng (phần cờ thông tin đa phương tiện)"
 
 msgctxt "#31133"
 msgid "Hide watched"
-msgstr ""
+msgstr "Ẩn mục đã xem"
 
 msgctxt "#31134"
 msgid "reset colors?"
-msgstr ""
+msgstr "đặt lại màu?"
 
 msgctxt "#31135"
 msgid "Hide scrolling text"
-msgstr ""
+msgstr "Ẩn văn bản cuộn"
 
 msgctxt "#31136"
 msgid "All colors are reset to their default values"
-msgstr ""
+msgstr "Tất cả các màu được đặt lại về giá trị mặc định"
 
 msgctxt "#31137"
 msgid "[CR]Arctic: Zephyr - Reloaded is based on the third iteration of the Arctic skin created by jurialmunkey. [CR]Arctic focuses on being simple, clean and minimalistic with a light spin.[CR]If you have any thoughts on this Skin, feel free to let me know at [CR][CR]https://forum.kodi.tv/showthread.php?tid=337862"
-msgstr ""
+msgstr "[CR]Arctic: Zephyr - Reloaded dựa trên phiên bản thứ ba của giao diện Arctic do jurialmunkey tạo ra. [CR]Arctic tập trung vào sự đơn giản, gọn gàng và tối giản với cảm giác nhẹ nhàng.[CR]Nếu bạn có bất kỳ ý kiến nào về giao diện này, vui lòng cho tôi biết tại [CR][CR]https://forum.kodi.tv/showthread.php?tid=337862"
 
 msgctxt "#31138"
 msgid "Content Loading"
-msgstr ""
+msgstr "Đang tải nội dung"
 
 msgctxt "#31139"
 msgid "Play trailer in windowed mode"
-msgstr ""
+msgstr "Phát đoạn phim quảng cáo ở chế độ cửa sổ"
 
 msgctxt "#31140"
 msgid "Kodi logo"
-msgstr ""
+msgstr "Biểu tượng Kodi"
 
 msgctxt "#31141"
 msgid "Youtube"
-msgstr ""
+msgstr "Youtube"
 
 msgctxt "#31142"
 msgid "Use low list"
-msgstr ""
+msgstr "Sử dụng danh sách thấp"
 
 msgctxt "#31143"
 msgid "Set weather fanart"
-msgstr ""
+msgstr "Đặt fanart thời tiết"
 
 msgctxt "#31144"
 msgid "Widgets"
-msgstr ""
+msgstr "Tiện ích con"
 
 msgctxt "#31145"
 msgid "Show weather"
-msgstr ""
+msgstr "Hiển thị thời tiết"
 
 msgctxt "#31146"
 msgid "Animate fanart"
-msgstr ""
+msgstr "Tạo hoạt ảnh cho fanart"
 
 msgctxt "#31147"
 msgid "Extra Info"
-msgstr ""
+msgstr "Thông tin bổ sung"
 
 msgctxt "#31148"
 msgid "Wrap list"
-msgstr ""
+msgstr "Cuộn vòng danh sách"
 
 msgctxt "#31149"
 msgid "Replace widget fanart with background"
-msgstr ""
+msgstr "Thay thế fanart của tiện ích con bằng hình nền"
 
 msgctxt "#31150"
 msgid "Set fallback image"
-msgstr ""
+msgstr "Đặt hình ảnh dự phòng"
 
 msgctxt "#31151"
 msgid "Power Menu"
-msgstr ""
+msgstr "Menu Nguồn"
 
 msgctxt "#31152"
 msgid "Furniture"
-msgstr ""
+msgstr "Đồ trang trí"
 
 msgctxt "#31153"
 msgid "Show clock"
-msgstr ""
+msgstr "Hiển thị đồng hồ"
 
 msgctxt "#31154"
 msgid "Show media flags"
@@ -627,59 +627,59 @@ msgstr "Hiển thị media flags"
 
 msgctxt "#31155"
 msgid "Show now playing info"
-msgstr ""
+msgstr "Hiển thị thông tin đang phát"
 
 msgctxt "#31156"
 msgid "[COLOR=$VAR[ColorHighlight]]Reloaded[/COLOR] Skin-Settings"
-msgstr ""
+msgstr "Cài đặt Giao diện [COLOR=$VAR[ColorHighlight]]Reloaded[/COLOR]"
 
 msgctxt "#31157"
 msgid "Extended info of"
-msgstr ""
+msgstr "Thông tin mở rộng của"
 
 msgctxt "#31158"
 msgid "Trailer of"
-msgstr ""
+msgstr "Đoạn phim quảng cáo của"
 
 msgctxt "#31159"
 msgid "Movies by"
-msgstr ""
+msgstr "Phim của"
 
 msgctxt "#31160"
 msgid "Tv Shows by"
-msgstr ""
+msgstr "Chương trình TV của"
 
 msgctxt "#31161"
 msgid "[B]Configure System Settings[/B][CR][CR] •     Setup and calibrate displays[CR] •     Configure audio output[CR] •     Setup remote controls[CR] •     Set power saving options[CR] •     Enable debugging[CR] •     Setup master lock"
-msgstr ""
+msgstr "[B]Cấu hình Cài đặt Hệ thống[/B][CR][CR] •     Thiết lập và hiệu chuẩn màn hình[CR] •     Cấu hình đầu ra âm thanh[CR] •     Thiết lập điều khiển từ xa[CR] •     Đặt tùy chọn tiết kiệm điện[CR] •     Bật gỡ lỗi[CR] •     Thiết lập khóa chính"
 
 msgctxt "#31162"
 msgid "[B]Configure Add-Ons[/B][CR][CR] •     Manage your installed Add-ons[CR] •     Install Add-ons from kodi.tv[CR] •     Modify Add-on settings"
-msgstr ""
+msgstr "[B]Cấu hình Add-On[/B][CR][CR] •     Quản lý Add-on đã cài đặt của bạn[CR] •     Cài đặt Add-on từ kodi.tv[CR] •     Sửa đổi cài đặt Add-on"
 
 msgctxt "#31163"
 msgid "[B]Configure TV Settings[/B][CR][CR] •     Change full screen info[CR] •     Manage EPG data settings"
-msgstr ""
+msgstr "[B]Cấu hình Cài đặt TV[/B][CR][CR] •     Thay đổi thông tin toàn màn hình[CR] •     Quản lý cài đặt dữ liệu EPG"
 
 msgctxt "#31164"
 msgid "[B]Configure Service Settings[/B][CR][CR] •     Control via UPnP and HTTP[CR] •     Configure file sharing[CR] •     Enable Zeroconf[CR] •     Configure AirPlay"
-msgstr ""
+msgstr "[B]Cấu hình Cài đặt Dịch vụ[/B][CR][CR] •     Điều khiển qua UPnP và HTTP[CR] •     Cấu hình chia sẻ tập tin[CR] •     Bật Zeroconf[CR] •     Cấu hình AirPlay"
 
 msgctxt "#31165"
 msgid "[B]Configure Profile Settings[/B][CR][CR] •     Setup user profiles[CR] •     Enable login screen[CR] •     Set master locks[CR] •     Control access to content"
-msgstr ""
+msgstr "[B]Cấu hình Cài đặt Hồ sơ[/B][CR][CR] •     Thiết lập hồ sơ người dùng[CR] •     Bật màn hình đăng nhập[CR] •     Đặt khóa chính[CR] •     Kiểm soát truy cập vào nội dung"
 
 msgctxt "#31166"
 msgid "[B]Configure Skin Settings[/B][CR][CR] •     Customise the home screen[CR] •     Set background options[CR] •     Configure OSD options[CR] •     Enable add-on support[CR] •     Disable screen elements"
-msgstr ""
+msgstr "[B]Cấu hình Cài đặt Giao diện[/B][CR][CR] •     Tùy chỉnh màn hình chính[CR] •     Đặt tùy chọn hình nền[CR] •     Cấu hình tùy chọn OSD[CR] •     Bật hỗ trợ add-on[CR] •     Tắt các thành phần trên màn hình"
 
 msgctxt "#31167"
 msgid "[B]View System Information[/B][CR][CR] •     Summary[CR] •     Storage[CR] •     Network[CR] •     Video[CR] •     Hardware[CR] •     PVR Backend"
-msgstr ""
+msgstr "[B]Xem Thông tin Hệ thống[/B][CR][CR] •     Tóm tắt[CR] •     Lưu trữ[CR] •     Mạng[CR] •     Video[CR] •     Phần cứng[CR] •     PVR Backend"
 
 msgctxt "#31168"
 msgid "Startup video or music playlist"
-msgstr ""
+msgstr "Danh sách phát video hoặc nhạc khởi động"
 
 msgctxt "#31169"
 msgid "Extras"
@@ -687,15 +687,15 @@ msgstr "Vai phụ"
 
 msgctxt "#31170"
 msgid "Cinema Experience"
-msgstr ""
+msgstr "Trải nghiệm Điện ảnh"
 
 msgctxt "#31171"
 msgid "Movies by"
-msgstr ""
+msgstr "Phim của"
 
 msgctxt "#31172"
 msgid "Show music visualisation in background"
-msgstr ""
+msgstr "Hiển thị hình ảnh trực quan nhạc trong nền"
 
 msgctxt "#31173"
 msgid "Recently added"
@@ -703,63 +703,63 @@ msgstr "Đã thêm gần đây"
 
 msgctxt "#31174"
 msgid "Recently played"
-msgstr ""
+msgstr "Vừa phát"
 
 msgctxt "#31175"
 msgid "Play random"
-msgstr ""
+msgstr "Phát ngẫu nhiên"
 
 msgctxt "#31176"
 msgid "Delete Settings Shortcut"
-msgstr ""
+msgstr "Xóa phím tắt Cài đặt"
 
 msgctxt "#31177"
 msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
-msgstr ""
+msgstr "Bạn có chắc chắn muốn xóa phím tắt cài đặt không?[CR]Vui lòng đảm bảo bạn có phương pháp thay thế để truy cập cài đặt trước khi xóa phím tắt này."
 
 msgctxt "#31178"
 msgid "Hub items"
-msgstr ""
+msgstr "Các mục trong Trung tâm"
 
 msgctxt "#31180"
 msgid "Cast of"
-msgstr ""
+msgstr "Diễn viên của"
 
 msgctxt "#31181"
 msgid "Similar to"
-msgstr ""
+msgstr "Tương tự như"
 
 msgctxt "#31182"
 msgid "Fanart of"
-msgstr ""
+msgstr "Fanart của"
 
 msgctxt "#31183"
 msgid "Youtube videos of"
-msgstr ""
+msgstr "Video Youtube của"
 
 msgctxt "#31184"
 msgid "Crew of"
-msgstr ""
+msgstr "Đoàn làm phim của"
 
 msgctxt "#31185"
 msgid "Big poster"
-msgstr ""
+msgstr "Áp phích lớn"
 
 msgctxt "#31186"
 msgid "Use circular icons in dialogs"
-msgstr ""
+msgstr "Sử dụng biểu tượng tròn trong hộp thoại"
 
 msgctxt "#31187"
 msgid "Filmography of"
-msgstr ""
+msgstr "Sự nghiệp điện ảnh của"
 
 msgctxt "#31188"
 msgid "TV Show appearances of"
-msgstr ""
+msgstr "Sự nghiệp truyền hình của"
 
 msgctxt "#31189"
 msgid "Discography of"
-msgstr ""
+msgstr "Danh sách đĩa nhạc của"
 
 msgctxt "#31190"
 msgid "Show icons"
@@ -771,11 +771,11 @@ msgstr "Đạo diễn"
 
 msgctxt "#31192"
 msgid "Movie Hub"
-msgstr ""
+msgstr "Trung tâm Phim"
 
 msgctxt "#31193"
 msgid "TV Hub"
-msgstr ""
+msgstr "Trung tâm TV"
 
 msgctxt "#31194"
 msgid "View Options"
@@ -783,19 +783,19 @@ msgstr "Tùy chọn chế độ xem"
 
 msgctxt "#31195"
 msgid "Reload Skin"
-msgstr ""
+msgstr "Tải lại Giao diện"
 
 msgctxt "#31196"
 msgid "Content of"
-msgstr ""
+msgstr "Nội dung của"
 
 msgctxt "#31197"
 msgid "Show weather with clock"
-msgstr ""
+msgstr "Hiển thị thời tiết cùng đồng hồ"
 
 msgctxt "#31198"
 msgid "Cards"
-msgstr ""
+msgstr "Thẻ"
 
 msgctxt "#31199"
 msgid "Kiosk mode"
@@ -803,103 +803,103 @@ msgstr "Chế độ Kiosk"
 
 msgctxt "#31200"
 msgid "Only display widgets when pressing up"
-msgstr ""
+msgstr "Chỉ hiển thị tiện ích con khi nhấn lên"
 
 msgctxt "#31201"
 msgid "Show detailed info when video is paused"
-msgstr ""
+msgstr "Hiển thị thông tin chi tiết khi tạm dừng video"
 
 msgctxt "#31202"
 msgid "Use horizontal submenu"
-msgstr ""
+msgstr "Sử dụng menu con nằm ngang"
 
 msgctxt "#31203"
 msgid "Artwork Beef"
-msgstr ""
+msgstr "Artwork Beef"
 
 msgctxt "#31204"
 msgid "Similar to"
-msgstr ""
+msgstr "Tương tự như"
 
 msgctxt "#31205"
 msgid "Released by"
-msgstr ""
+msgstr "Phát hành bởi"
 
 msgctxt "#31206"
 msgid "Similar"
-msgstr ""
+msgstr "Tương tự"
 
 msgctxt "#31207"
 msgid "Movies by"
-msgstr ""
+msgstr "Phim của"
 
 msgctxt "#31208"
 msgid "In Cinemas"
-msgstr ""
+msgstr "Tại rạp"
 
 msgctxt "#31209"
 msgid "Upcoming"
-msgstr ""
+msgstr "Sắp chiếu"
 
 msgctxt "#31210"
 msgid "Popular"
-msgstr ""
+msgstr "Phổ biến"
 
 msgctxt "#31211"
 msgid "Top Rated"
-msgstr ""
+msgstr "Được đánh giá cao nhất"
 
 msgctxt "#31212"
 msgid "Airing"
-msgstr ""
+msgstr "Đang phát sóng"
 
 msgctxt "#31213"
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 msgctxt "#31214"
 msgid "Show plot"
-msgstr ""
+msgstr "Hiển thị cốt truyện"
 
 msgctxt "#31215"
 msgid "Unwatched"
-msgstr ""
+msgstr "Chưa xem"
 
 msgctxt "#31216"
 msgid "Tracklist of"
-msgstr ""
+msgstr "Danh sách bài hát của"
 
 msgctxt "#31217"
 msgid "Show clearart with video information"
-msgstr ""
+msgstr "Hiển thị clearart cùng với thông tin video"
 
 msgctxt "#31218"
 msgid "Show numeric rating"
-msgstr ""
+msgstr "Hiển thị đánh giá bằng số"
 
 msgctxt "#31219"
 msgid "Show reflections"
-msgstr ""
+msgstr "Hiển thị hình phản chiếu"
 
 msgctxt "#31220"
 msgid "Next Aired"
-msgstr ""
+msgstr "Phát sóng tiếp theo"
 
 msgctxt "#31221"
 msgid "Studio"
-msgstr ""
+msgstr "Hãng phim"
 
 msgctxt "#31222"
 msgid "Sorry, we don't have any data for that."
-msgstr ""
+msgstr "Xin lỗi, chúng tôi không có dữ liệu nào cho mục đó."
 
 msgctxt "#31223"
 msgid "Cast"
-msgstr ""
+msgstr "Diễn viên"
 
 msgctxt "#31224"
 msgid "Similar"
-msgstr ""
+msgstr "Tương tự"
 
 msgctxt "#31225"
 msgid "Fanart"
@@ -907,147 +907,147 @@ msgstr "Fanart"
 
 msgctxt "#31226"
 msgid "Youtube"
-msgstr ""
+msgstr "Youtube"
 
 msgctxt "#31227"
 msgid "Crew"
-msgstr ""
+msgstr "Đoàn làm phim"
 
 msgctxt "#31228"
 msgid "TV Show appearances"
-msgstr ""
+msgstr "Sự nghiệp truyền hình"
 
 msgctxt "#31229"
 msgid "Discography"
-msgstr ""
+msgstr "Danh sách đĩa nhạc"
 
 msgctxt "#31230"
 msgid "Tracklist"
-msgstr ""
+msgstr "Danh sách bài hát"
 
 msgctxt "#31231"
 msgid "Screenshots of"
-msgstr ""
+msgstr "Ảnh chụp màn hình của"
 
 msgctxt "#31232"
 msgid "Reboot to eMMC/NAND"
-msgstr ""
+msgstr "Khởi động lại vào eMMC/NAND"
 
 msgctxt "#31233"
 msgid "died on"
-msgstr ""
+msgstr "mất ngày"
 
 msgctxt "#31234"
 msgid "Fanart overlay"
-msgstr ""
+msgstr "Lớp phủ Fanart"
 
 msgctxt "#31235"
 msgid "Show banner?"
-msgstr ""
+msgstr "Hiển thị băng rôn?"
 
 msgctxt "#31236"
 msgid "Now playing..."
-msgstr ""
+msgstr "Đang phát..."
 
 msgctxt "#31237"
 msgid "Use minimal busy loader in header"
-msgstr ""
+msgstr "Sử dụng trình tải bận tối thiểu ở tiêu đề đầu trang"
 
 msgctxt "#31238"
 msgid "Select highlight color"
-msgstr ""
+msgstr "Chọn màu nổi bật"
 
 msgctxt "#31239"
 msgid "Current Color"
-msgstr ""
+msgstr "Màu hiện tại"
 
 msgctxt "#31240"
 msgid "Square Light"
-msgstr ""
+msgstr "Vuông Sáng"
 
 msgctxt "#31241"
 msgid "Icons Info"
-msgstr ""
+msgstr "Thông tin Biểu tượng"
 
 msgctxt "#31242"
 msgid "Provided by themoviedb.org"
-msgstr ""
+msgstr "Cung cấp bởi themoviedb.org"
 
 msgctxt "#31243"
 msgid "Hide OSD on lyrics"
-msgstr ""
+msgstr "Ẩn OSD trên lời bài hát"
 
 msgctxt "#31244"
 msgid "Banner Wall"
-msgstr ""
+msgstr "Tường Băng rôn"
 
 msgctxt "#31245"
 msgid "Startup image"
-msgstr ""
+msgstr "Hình ảnh khởi động"
 
 msgctxt "#31246"
 msgid "Show icon media flags"
-msgstr ""
+msgstr "Hiển thị cờ thông tin đa phương tiện biểu tượng"
 
 msgctxt "#31247"
 msgid "Home menu style"
-msgstr ""
+msgstr "Kiểu menu trang chủ"
 
 msgctxt "#31248"
 msgid "Featured"
-msgstr ""
+msgstr "Nổi bật"
 
 msgctxt "#31249"
 msgid "Classic"
-msgstr ""
+msgstr "Cổ điển"
 
 msgctxt "#31250"
 msgid "Vertical"
-msgstr ""
+msgstr "Dọc"
 
 msgctxt "#31251"
 msgid "Seasons of"
-msgstr ""
+msgstr "Phần phim của"
 
 msgctxt "#31252"
 msgid "Collections of"
-msgstr ""
+msgstr "Bộ sưu tập của"
 
 msgctxt "#31253"
 msgid "Always display info and osd controls on music visualisation"
-msgstr ""
+msgstr "Luôn hiển thị thông tin và điều khiển osd trên hình ảnh trực quan nhạc"
 
 msgctxt "#31254"
 msgid "Show plot overlay after 3 second delay"
-msgstr ""
+msgstr "Hiển thị lớp phủ cốt truyện sau độ trễ 3 giây"
 
 msgctxt "#31255"
 msgid "Collections"
-msgstr ""
+msgstr "Bộ sưu tập"
 
 msgctxt "#31256"
 msgid "Homepage"
-msgstr ""
+msgstr "Trang chủ"
 
 msgctxt "#31257"
 msgid "Extended Song Info"
-msgstr ""
+msgstr "Thông tin Bài hát Mở rộng"
 
 msgctxt "#31258"
 msgid "Fanart Thumbs"
-msgstr ""
+msgstr "Hình thu nhỏ Fanart"
 
 msgctxt "#31259"
 msgid "Extra fanart"
-msgstr ""
+msgstr "Fanart phụ"
 
 msgctxt "#31260"
 msgid "Set weather icons"
-msgstr ""
+msgstr "Đặt biểu tượng thời tiết"
 
 msgctxt "#31261"
 msgid "Widget aspect"
-msgstr ""
+msgstr "Tỷ lệ tiện ích con"
 
 msgctxt "#31262"
 msgid "Poster"
@@ -1055,11 +1055,11 @@ msgstr "Áp phích"
 
 msgctxt "#31263"
 msgid "Square"
-msgstr ""
+msgstr "Vuông"
 
 msgctxt "#31264"
 msgid "Extended List"
-msgstr ""
+msgstr "Danh sách Mở rộng"
 
 msgctxt "#31265"
 msgid "Fanart"
@@ -1067,23 +1067,23 @@ msgstr "Fanart"
 
 msgctxt "#31266"
 msgid "Widget"
-msgstr ""
+msgstr "Tiện ích con"
 
 msgctxt "#31267"
 msgid "Action"
-msgstr ""
+msgstr "Hành động"
 
 msgctxt "#31268"
 msgid "Label"
-msgstr ""
+msgstr "Nhãn"
 
 msgctxt "#31269"
 msgid "Fallback widget"
-msgstr ""
+msgstr "Tiện ích con dự phòng"
 
 msgctxt "#31270"
 msgid "Video / Music OSD"
-msgstr ""
+msgstr "OSD Video / Nhạc"
 
 msgctxt "#31271"
 msgid "Single Image"
@@ -1095,27 +1095,27 @@ msgstr "Nhiều ảnh"
 
 msgctxt "#31273"
 msgid "Hub widget"
-msgstr ""
+msgstr "Tiện ích con trung tâm"
 
 msgctxt "#31274"
 msgid "Most played Song"
-msgstr ""
+msgstr "Bài hát được nghe nhiều nhất"
 
 msgctxt "#31275"
 msgid "[B]Configure Interface Settings[/B][CR][CR] •     Skin[CR] •     Region[CR] •     Control[CR] •     Screensaver[CR] •     Master Lock[CR]"
-msgstr ""
+msgstr "[B]Cấu hình Cài đặt Giao diện[/B][CR][CR] •     Giao diện[CR] •     Khu vực[CR] •     Điều khiển[CR] •     Trình bảo vệ màn hình[CR] •     Khóa chính[CR]"
 
 msgctxt "#31276"
 msgid "[B]Configure Library Settings[/B][CR][CR] •     Display[CR] •     Navigation[CR] •     Media Database[CR]"
-msgstr ""
+msgstr "[B]Cấu hình Cài đặt Thư viện[/B][CR][CR] •     Hiển thị[CR] •     Điều hướng[CR] •     Cơ sở dữ liệu Đa phương tiện[CR]"
 
 msgctxt "#31277"
 msgid "[B]Configure Player Settings[/B][CR][CR] •     Playback Actions[CR] •     How Content is Played[CR]"
-msgstr ""
+msgstr "[B]Cấu hình Cài đặt Trình phát[/B][CR][CR] •     Hành động Phát[CR] •     Cách Phát Nội dung[CR]"
 
 msgctxt "#31278"
 msgid "Download all artwork"
-msgstr ""
+msgstr "Tải xuống tất cả hình ảnh mỹ thuật"
 
 msgctxt "#31279"
 msgid "Video decoder"
@@ -1127,83 +1127,83 @@ msgstr "Định dạng điểm ảnh"
 
 msgctxt "#31281"
 msgid "Play Speed"
-msgstr ""
+msgstr "Tốc độ Phát"
 
 msgctxt "#31282"
 msgid "Special Features"
-msgstr ""
+msgstr "Tính năng Đặc biệt"
 
 msgctxt "#31283"
 msgid "Select artwork"
-msgstr ""
+msgstr "Chọn hình ảnh mỹ thuật"
 
 msgctxt "#31284"
 msgid "Download artwork"
-msgstr ""
+msgstr "Tải xuống hình ảnh mỹ thuật"
 
 msgctxt "#31285"
 msgid "Top Songs"
-msgstr ""
+msgstr "Bài hát Hàng đầu"
 
 msgctxt "#31286"
 msgid "Random Songs"
-msgstr ""
+msgstr "Bài hát Ngẫu nhiên"
 
 msgctxt "#31287"
 msgid "Modern"
-msgstr ""
+msgstr "Hiện đại"
 
 msgctxt "#31288"
 msgid "Weather - daily"
-msgstr ""
+msgstr "Thời tiết - hàng ngày"
 
 msgctxt "#31289"
 msgid "Weather - hourly"
-msgstr ""
+msgstr "Thời tiết - hàng giờ"
 
 msgctxt "#31290"
 msgid "Open Player Process Information"
-msgstr ""
+msgstr "Mở Thông tin Quá trình Trình phát"
 
 msgctxt "#31291"
 msgid "Player-Cache"
-msgstr ""
+msgstr "Bộ đệm Trình phát"
 
 msgctxt "#31292"
 msgid "Channel List"
-msgstr ""
+msgstr "Danh sách Kênh"
 
 msgctxt "#31293"
 msgid "Reloaded"
-msgstr ""
+msgstr "Reloaded"
 
 msgctxt "#31294"
 msgid "Side"
-msgstr ""
+msgstr "Bên"
 
 msgctxt "#31295"
 msgid "OSD view mode:"
-msgstr ""
+msgstr "Chế độ xem OSD:"
 
 msgctxt "#31296"
 msgid "This is your personal rating and will not be published."
-msgstr ""
+msgstr "Đây là đánh giá cá nhân của bạn và sẽ không được công bố."
 
 msgctxt "#31297"
 msgid "       "
-msgstr ""
+msgstr "       "
 
 msgctxt "#31298"
 msgid "Video / Music Infodialog"
-msgstr ""
+msgstr "Hộp thoại Thông tin Video / Nhạc"
 
 msgctxt "#31299"
 msgid "Show plot on HUB"
-msgstr ""
+msgstr "Hiển thị cốt truyện trên TRUNG TÂM"
 
 msgctxt "#31300"
 msgid "Colors"
-msgstr ""
+msgstr "Màu sắc"
 
 msgctxt "#31301"
 msgid "Video OSD"
@@ -1215,151 +1215,151 @@ msgstr "Bảng điều khiển Nhạc"
 
 msgctxt "#31303"
 msgid "Widgets"
-msgstr ""
+msgstr "Tiện ích con"
 
 msgctxt "#31304"
 msgid "Views"
-msgstr ""
+msgstr "Chế độ xem"
 
 msgctxt "#31305"
 msgid "HUBs"
-msgstr ""
+msgstr "TRUNG TÂM"
 
 msgctxt "#31307"
 msgid "ClearArt"
-msgstr ""
+msgstr "ClearArt"
 
 msgctxt "#31308"
 msgid "Blur-Settings"
-msgstr ""
+msgstr "Cài đặt Làm mờ"
 
 msgctxt "#31309"
 msgid "Media-Flags"
-msgstr ""
+msgstr "Cờ Đa phương tiện"
 
 msgctxt "#31310"
 msgid "Enable grid"
-msgstr ""
+msgstr "Bật lưới"
 
 msgctxt "#31311"
 msgid "Hide play/pause info"
-msgstr ""
+msgstr "Ẩn thông tin phát/tạm dừng"
 
 msgctxt "#31312"
 msgid "Auto close OSD after delay (in seconds)"
-msgstr ""
+msgstr "Tự động đóng OSD sau khoảng trễ (tính bằng giây)"
 
 msgctxt "#31313"
 msgid "Random Artists with biography only"
-msgstr ""
+msgstr "Nghệ sĩ ngẫu nhiên chỉ có tiểu sử"
 
 msgctxt "#31314"
 msgid "People"
-msgstr ""
+msgstr "Mọi người"
 
 msgctxt "#31315"
 msgid "Recently added Artists"
-msgstr ""
+msgstr "Nghệ sĩ vừa thêm"
 
 msgctxt "#31316"
 msgid "Recently added Artists with biography only"
-msgstr ""
+msgstr "Nghệ sĩ vừa thêm chỉ có tiểu sử"
 
 msgctxt "#31317"
 msgid "Top 20 User Rated Movies"
-msgstr ""
+msgstr "Top 20 Phim được Người dùng Đánh giá"
 
 msgctxt "#31318"
 msgid "Reset skin settings to defaults?"
-msgstr ""
+msgstr "Đặt lại cài đặt giao diện về mặc định?"
 
 msgctxt "#31319"
 msgid "Reset skin settings to defaults? WARNING: This will also reset your home menu to skin defaults!"
-msgstr ""
+msgstr "Đặt lại cài đặt giao diện về mặc định? CẢNH BÁO: Việc này cũng sẽ đặt lại menu trang chủ của bạn về mặc định của giao diện!"
 
 msgctxt "#31320"
 msgid "Random Actors ordered by movies"
-msgstr ""
+msgstr "Diễn viên ngẫu nhiên được sắp xếp theo phim"
 
 msgctxt "#31321"
 msgid "New Unwatched Movies"
-msgstr ""
+msgstr "Phim Mới Chưa xem"
 
 msgctxt "#31322"
 msgid "New Unwatched Episodes"
-msgstr ""
+msgstr "Tập phim Mới Chưa xem"
 
 msgctxt "#31323"
 msgid "New Unwatched Tv Shows"
-msgstr ""
+msgstr "Chương trình TV Mới Chưa xem"
 
 msgctxt "#31324"
 msgid "Search results for"
-msgstr ""
+msgstr "Kết quả tìm kiếm cho"
 
 msgctxt "#31325"
 msgid "Side Cards"
-msgstr ""
+msgstr "Thẻ Bên"
 
 msgctxt "#31326"
 msgid "Show temperature and icon"
-msgstr ""
+msgstr "Hiển thị nhiệt độ và biểu tượng"
 
 msgctxt "#31327"
 msgid "Seasons Info"
-msgstr ""
+msgstr "Thông tin Phần phim"
 
 msgctxt "#31328"
 msgid "Deeper shadows"
-msgstr ""
+msgstr "Đổ bóng sâu hơn"
 
 msgctxt "#31330"
 msgid "ClearLogo"
-msgstr ""
+msgstr "ClearLogo"
 
 msgctxt "#31331"
 msgid "Show ClearLogo/Art"
-msgstr ""
+msgstr "Hiển thị ClearLogo/Art"
 
 msgctxt "#31332"
 msgid "More of"
-msgstr ""
+msgstr "Thêm của"
 
 msgctxt "#31333"
 msgid "Poster Wall Small"
-msgstr ""
+msgstr "Tường Áp phích Nhỏ"
 
 msgctxt "#31334"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "#31335"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgctxt "#31336"
 msgid "15"
-msgstr ""
+msgstr "15"
 
 msgctxt "#31337"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "#31338"
 msgid "25"
-msgstr ""
+msgstr "25"
 
 msgctxt "#31339"
 msgid "Auto-scrolling widgets (seconds)"
-msgstr ""
+msgstr "Tiện ích con tự động cuộn (giây)"
 
 msgctxt "#31340"
 msgid "Auto-scrolling"
-msgstr ""
+msgstr "Tự động cuộn"
 
 msgctxt "#31341"
 msgid "Widget-listtype"
-msgstr ""
+msgstr "Loại danh sách tiện ích con"
 
 msgctxt "#31342"
 msgid "List"
@@ -1367,39 +1367,39 @@ msgstr "Danh sách"
 
 msgctxt "#31343"
 msgid "Fixed list"
-msgstr ""
+msgstr "Danh sách cố định"
 
 msgctxt "#31345"
 msgid "Texture/Icon on infopage"
-msgstr ""
+msgstr "Bề mặt/Biểu tượng trên trang thông tin"
 
 msgctxt "#31346"
 msgid "Studio logo"
-msgstr ""
+msgstr "Logo hãng phim"
 
 msgctxt "#31347"
 msgid "Rating flag"
-msgstr ""
+msgstr "Cờ xếp hạng"
 
 msgctxt "#31348"
 msgid "Movie Genre Icons"
-msgstr ""
+msgstr "Biểu tượng Thể loại Phim"
 
 msgctxt "#31349"
 msgid "Studio Icons"
-msgstr ""
+msgstr "Biểu tượng Hãng phim"
 
 msgctxt "#31350"
 msgid "Record Label Icons"
-msgstr ""
+msgstr "Biểu tượng Hãng thu âm"
 
 msgctxt "#31352"
 msgid "Switch to full screen mode when music starts playing"
-msgstr ""
+msgstr "Chuyển sang chế độ toàn màn hình khi bắt đầu phát nhạc"
 
 msgctxt "#31354"
 msgid "Animate fanart/slideshow"
-msgstr ""
+msgstr "Tạo hoạt ảnh cho fanart/trình chiếu ảnh"
 
 msgctxt "#31355"
 msgid "Normal"
@@ -1407,515 +1407,515 @@ msgstr "Bình thường"
 
 msgctxt "#31356"
 msgid "Slow"
-msgstr ""
+msgstr "Chậm"
 
 msgctxt "#31357"
 msgid "Very slow"
-msgstr ""
+msgstr "Rất chậm"
 
 msgctxt "#31358"
 msgid "Fadetime"
-msgstr ""
+msgstr "Thời gian mờ"
 
 msgctxt "#31359"
 msgid "Customise power menu"
-msgstr ""
+msgstr "Tùy chỉnh menu nguồn"
 
 msgctxt "#31360"
 msgid "Log off: $INFO[system.profilename]"
-msgstr ""
+msgstr "Đăng xuất: $INFO[system.profilename]"
 
 msgctxt "#31361"
 msgid "Delete/Disable Settings Menu Item?"
-msgstr ""
+msgstr "Xóa/Tắt Mục Menu Cài đặt?"
 
 msgctxt "#31362"
 msgid "Are you sure you want to remove the Settings menu item?[CR]Please ensure that you have an alternative method of accessing Settings before you remove this menu item."
-msgstr ""
+msgstr "Bạn có chắc chắn muốn xóa mục menu Cài đặt không?[CR]Vui lòng đảm bảo bạn có phương pháp thay thế để truy cập Cài đặt trước khi xóa mục menu này."
 
 msgctxt "#31363"
 msgid "Power menu"
-msgstr ""
+msgstr "Menu nguồn"
 
 msgctxt "#31364"
 msgid "Shutdown in: [B]$INFO[System.Alarmpos][/B]"
-msgstr ""
+msgstr "Tắt máy sau: [B]$INFO[System.Alarmpos][/B]"
 
 msgctxt "#31365"
 msgid "Use IMDB trailers (requires plugin.video.imdb.trailers)"
-msgstr ""
+msgstr "Sử dụng đoạn phim quảng cáo IMDB (yêu cầu plugin.video.imdb.trailers)"
 
 msgctxt "#31366"
 msgid "Show Filenames"
-msgstr ""
+msgstr "Hiển thị Tên tập tin"
 
 msgctxt "#31367"
 msgid "Focus Bars (List Views)"
-msgstr ""
+msgstr "Thanh Tiêu điểm (Chế độ xem Danh sách)"
 
 msgctxt "#31368"
 msgid "Show unwatched episodes count"
-msgstr ""
+msgstr "Hiển thị số lượng tập phim chưa xem"
 
 msgctxt "#31369"
 msgid "Shifted ClearArt"
-msgstr ""
+msgstr "ClearArt Đã dịch chuyển"
 
 msgctxt "#31370"
 msgid "Year of release"
-msgstr ""
+msgstr "Năm phát hành"
 
 msgctxt "#31371"
 msgid "total"
-msgstr ""
+msgstr "tổng số"
 
 msgctxt "#31372"
 msgid "last on"
-msgstr ""
+msgstr "cuối cùng lúc"
 
 msgctxt "#31373"
 msgid "[B]Configure LibreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
-msgstr ""
+msgstr "[B]Cấu hình Cài đặt LibreELEC[/B][CR][CR] •     Thiết lập cài đặt hệ thống[CR] •     Cấu hình bản cập nhật hệ thốngThiết lập và hiệu chuẩn mạng[CR] •     Thiết lập và hiệu chuẩn mạng[CR] •     Cấu hình các kết nối [CR]"
 
 msgctxt "#31374"
 msgid "[B]Configure CoreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
-msgstr ""
+msgstr "[B]Cấu hình Cài đặt CoreELEC[/B][CR][CR] •     Thiết lập cài đặt hệ thống[CR] •     Cấu hình bản cập nhật hệ thốngThiết lập và hiệu chuẩn mạng[CR] •     Thiết lập và hiệu chuẩn mạng[CR] •     Cấu hình các kết nối [CR]"
 
 msgctxt "#31375"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 msgctxt "#31376"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 msgctxt "#31377"
 msgid "TBD"
-msgstr ""
+msgstr "Cần xác định"
 
 msgctxt "#31378"
 msgid "Fallback label for ratings in list views"
-msgstr ""
+msgstr "Nhãn dự phòng cho xếp hạng trong chế độ xem danh sách"
 
 msgctxt "#31379"
 msgid "Size of Icons"
-msgstr ""
+msgstr "Kích thước của Biểu tượng"
 
 msgctxt "#31380"
 msgid "Align"
-msgstr ""
+msgstr "Căn chỉnh"
 
 msgctxt "#31381"
 msgid "left"
-msgstr ""
+msgstr "trái"
 
 msgctxt "#31382"
 msgid "center"
-msgstr ""
+msgstr "giữa"
 
 msgctxt "#31383"
 msgid "Fanart with ClearLogo"
-msgstr ""
+msgstr "Fanart có ClearLogo"
 
 msgctxt "#31384"
 msgid "Fullsize EPG"
-msgstr ""
+msgstr "EPG Kích thước đầy đủ"
 
 msgctxt "#31385"
 msgid "Also use for widgets"
-msgstr ""
+msgstr "Cũng sử dụng cho các tiện ích con"
 
 msgctxt "#31386"
 msgid "Also use for system-icons"
-msgstr ""
+msgstr "Cũng sử dụng cho biểu tượng hệ thống"
 
 msgctxt "#31387"
 msgid "DiscArt Fallback-Type"
-msgstr ""
+msgstr "Loại Dự phòng DiscArt"
 
 msgctxt "#31388"
 msgid "CD"
-msgstr ""
+msgstr "CD"
 
 msgctxt "#31389"
 msgid "Fake CD"
-msgstr ""
+msgstr "CD Giả"
 
 msgctxt "#31390"
 msgid "Vinyl"
-msgstr ""
+msgstr "Đĩa than"
 
 msgctxt "#31391"
 msgid "Prefer tags instead of rating"
-msgstr ""
+msgstr "Ưu tiên thẻ thay vì xếp hạng"
 
 msgctxt "#31392"
 msgid "Limit number of items in hub"
-msgstr ""
+msgstr "Giới hạn số lượng mục trong trung tâm"
 
 msgctxt "#31393"
 msgid "Show icons only"
-msgstr ""
+msgstr "Chỉ hiển thị biểu tượng"
 
 msgctxt "#31394"
 msgid "Multi-Widgets"
-msgstr ""
+msgstr "Nhiều Tiện ích con"
 
 msgctxt "#31395"
 msgid "Gradient color for "
-msgstr ""
+msgstr "Màu dải màu cho "
 
 msgctxt "#31396"
 msgid "Gradient"
-msgstr ""
+msgstr "Dải màu"
 
 msgctxt "#31397"
 msgid "Focus Bars (Settings, Homemenu Shortcuts)"
-msgstr ""
+msgstr "Thanh Tiêu điểm (Cài đặt, Phím tắt Homemenu)"
 
 msgctxt "#31398"
 msgid "RAM"
-msgstr ""
+msgstr "RAM"
 
 msgctxt "#31399"
 msgid "Skin-Version:"
-msgstr ""
+msgstr "Phiên bản Giao diện:"
 
 msgctxt "#31400"
 msgid "Scroll behavior"
-msgstr ""
+msgstr "Hành vi cuộn"
 
 msgctxt "#31401"
 msgid "Aspect ratio"
-msgstr ""
+msgstr "Tỷ lệ khung hình"
 
 msgctxt "#31402"
 msgid "Select aspect ratio for square widget"
-msgstr ""
+msgstr "Chọn tỷ lệ khung hình cho tiện ích con hình vuông"
 
 msgctxt "#31403"
 msgid "Scale"
-msgstr ""
+msgstr "Tỷ lệ"
 
 msgctxt "#31404"
 msgid "Sunrise at"
-msgstr ""
+msgstr "Mặt trời mọc lúc"
 
 msgctxt "#31405"
 msgid "Sunset at"
-msgstr ""
+msgstr "Mặt trời lặn lúc"
 
 msgctxt "#31406"
 msgid "Square small"
-msgstr ""
+msgstr "Hình vuông nhỏ"
 
 msgctxt "#31407"
 msgid "Square medium"
-msgstr ""
+msgstr "Hình vuông vừa"
 
 msgctxt "#31408"
 msgid "Alternative"
-msgstr ""
+msgstr "Thay thế"
 
 msgctxt "#31409"
 msgid "Bigger"
-msgstr ""
+msgstr "Lớn hơn"
 
 msgctxt "#31410"
 msgid "Home menu bar"
-msgstr ""
+msgstr "Thanh menu trang chủ"
 
 msgctxt "#31411"
 msgid "Fullscreen widget"
-msgstr ""
+msgstr "Tiện ích con toàn màn hình"
 
 msgctxt "#31412"
 msgid " - Fullscreen"
-msgstr ""
+msgstr " - Toàn màn hình"
 
 msgctxt "#31413"
 msgid "Weather location"
-msgstr ""
+msgstr "Vị trí thời tiết"
 
 msgctxt "#31414"
 msgid "Widget 1"
-msgstr ""
+msgstr "Tiện ích con 1"
 
 msgctxt "#31415"
 msgid "Widget 2"
-msgstr ""
+msgstr "Tiện ích con 2"
 
 msgctxt "#31416"
 msgid "Widget 3"
-msgstr ""
+msgstr "Tiện ích con 3"
 
 msgctxt "#31417"
 msgid "Widget 4"
-msgstr ""
+msgstr "Tiện ích con 4"
 
 msgctxt "#31418"
 msgid "Widget 5"
-msgstr ""
+msgstr "Tiện ích con 5"
 
 msgctxt "#31419"
 msgid "Big Poster"
-msgstr ""
+msgstr "Áp phích Lớn"
 
 msgctxt "#31420"
 msgid "Lock view for"
-msgstr ""
+msgstr "Khóa chế độ xem cho"
 
 msgctxt "#31421"
 msgid "Images"
-msgstr ""
+msgstr "Hình ảnh"
 
 msgctxt "#31422"
 msgid "Big wide"
-msgstr ""
+msgstr "Lớn rộng"
 
 msgctxt "#31423"
 msgid "Big list"
-msgstr ""
+msgstr "Danh sách lớn"
 
 msgctxt "#31424"
 msgid "Enable forced views (experimental)"
-msgstr ""
+msgstr "Bật chế độ xem bắt buộc (đang thử nghiệm)"
 
 msgctxt "#31425"
 msgid "Seconds"
-msgstr ""
+msgstr "Giây"
 
 msgctxt "#31426"
 msgid "Reset forced views"
-msgstr ""
+msgstr "Đặt lại chế độ xem bắt buộc"
 
 msgctxt "#31427"
 msgid "Forced views"
-msgstr ""
+msgstr "Chế độ xem bắt buộc"
 
 msgctxt "#31428"
 msgid "Big icons"
-msgstr ""
+msgstr "Biểu tượng lớn"
 
 msgctxt "#31429"
 msgid "more..."
-msgstr ""
+msgstr "thêm..."
 
 msgctxt "#31430"
 msgid "item"
-msgstr ""
+msgstr "mục"
 
 msgctxt "#31431"
 msgid "Use old Arctic Zephyr window animation"
-msgstr ""
+msgstr "Sử dụng hoạt ảnh cửa sổ Arctic Zephyr cũ"
 
 msgctxt "#31432"
 msgid "Alternative layout"
-msgstr ""
+msgstr "Bố cục thay thế"
 
 msgctxt "#31433"
 msgid "Smart Shortcuts"
-msgstr ""
+msgstr "Phím tắt Thông minh"
 
 msgctxt "#31434"
 msgid "Movies and TV shows"
-msgstr ""
+msgstr "Phim và chương trình TV"
 
 msgctxt "#31435"
 msgid "Recently added Songs"
-msgstr ""
+msgstr "Bài hát mới thêm"
 
 msgctxt "#31436"
 msgid "Most played Songs"
-msgstr ""
+msgstr "Bài hát được nghe nhiều nhất"
 
 msgctxt "#31437"
 msgid "Use old jumpbar"
-msgstr ""
+msgstr "Sử dụng thanh nhảy cũ"
 
 msgctxt "#31438"
 msgid "Genre Poster"
-msgstr ""
+msgstr "Áp phích Thể loại"
 
 msgctxt "#31439"
 msgid "Chapter markers"
-msgstr ""
+msgstr "Điểm đánh dấu chương"
 
 msgctxt "#31441"
 msgid "RottenTomatoes & Metacritic"
-msgstr ""
+msgstr "RottenTomatoes & Metacritic"
 
 msgctxt "#31442"
 msgid "Select media flags"
-msgstr ""
+msgstr "Chọn cờ thông tin đa phương tiện"
 
 msgctxt "#31443"
 msgid "Subtitle icon"
-msgstr ""
+msgstr "Biểu tượng phụ đề"
 
 msgctxt "#31444"
 msgid "Subtitle extended info"
-msgstr ""
+msgstr "Thông tin phụ đề mở rộng"
 
 msgctxt "#31445"
 msgid "Reminder enabled"
-msgstr ""
+msgstr "Đã bật Lời nhắc"
 
 msgctxt "#31446"
 msgid "Reminder Rule enabled"
-msgstr ""
+msgstr "Đã bật Quy tắc Lời nhắc"
 
 msgctxt "#31447"
 msgid "German Telecast Offers"
-msgstr ""
+msgstr "Ưu đãi Phát sóng của Đức"
 
 msgctxt "#31448"
 msgid "Debugging"
-msgstr ""
+msgstr "Gỡ lỗi"
 
 msgctxt "#31449"
 msgid "Extended debugging information"
-msgstr ""
+msgstr "Thông tin gỡ lỗi mở rộng"
 
 msgctxt "#31450"
 msgid "Extended grid"
-msgstr ""
+msgstr "Lưới mở rộng"
 
 msgctxt "#31451"
 msgid "Play next episode"
-msgstr ""
+msgstr "Phát tập tiếp theo"
 
 msgctxt "#31452"
 msgid "Widget"
-msgstr ""
+msgstr "Tiện ích con"
 
 msgctxt "#31453"
 msgid "Edge distance"
-msgstr ""
+msgstr "Khoảng cách mép"
 
 msgctxt "#31454"
 msgid "30px"
-msgstr ""
+msgstr "30px"
 
 msgctxt "#31455"
 msgid "Path intros"
-msgstr ""
+msgstr "Đoạn giới thiệu đường dẫn"
 
 msgctxt "#31456"
 msgid "Trailer count"
-msgstr ""
+msgstr "Số lượng đoạn phim quảng cáo"
 
 msgctxt "#31457"
 msgid "Some other"
-msgstr ""
+msgstr "Một số khác"
 
 msgctxt "#31458"
 msgid "Video preview"
-msgstr ""
+msgstr "Xem trước video"
 
 msgctxt "#31459"
 msgid "DiscArt"
-msgstr ""
+msgstr "DiscArt"
 
 msgctxt "#31460"
 msgid "Fake Blu-ray"
-msgstr ""
+msgstr "Blu-ray Giả"
 
 msgctxt "#31461"
 msgid "Artwork section"
-msgstr ""
+msgstr "Phần hình ảnh mỹ thuật"
 
 msgctxt "#31462"
 msgid "Landscape"
-msgstr ""
+msgstr "Ảnh ngang"
 
 msgctxt "#31463"
 msgid "Artwork of"
-msgstr ""
+msgstr "Hình ảnh mỹ thuật của"
 
 msgctxt "#31464"
 msgid "Movies and episodes"
-msgstr ""
+msgstr "Phim và tập phim"
 
 msgctxt "#31465"
 msgid "Random movies and episodes"
-msgstr ""
+msgstr "Phim và tập phim ngẫu nhiên"
 
 msgctxt "#31466"
 msgid "Recent movies and episodes"
-msgstr ""
+msgstr "Phim và tập phim gần đây"
 
 msgctxt "#31467"
 msgid "disabled"
-msgstr ""
+msgstr "đã tắt"
 
 msgctxt "#31468"
 msgid "Required addons"
-msgstr ""
+msgstr "Addon cần thiết"
 
 msgctxt "#31469"
 msgid "Recommended addons"
-msgstr ""
+msgstr "Addon khuyên dùng"
 
 msgctxt "#31470"
 msgid "Fixes"
-msgstr ""
+msgstr "Bản sửa lỗi"
 
 msgctxt "#31471"
 msgid "Hidden video window to prevent audio errors"
-msgstr ""
+msgstr "Cửa sổ video bị ẩn để tránh lỗi âm thanh"
 
 msgctxt "#31472"
 msgid "CoreELEC Settings"
-msgstr ""
+msgstr "Cài đặt CoreELEC"
 
 msgctxt "#31473"
 msgid "Custom widget"
-msgstr ""
+msgstr "Tiện ích con tùy chỉnh"
 
 msgctxt "#31474"
 msgid "Configure custom widget"
-msgstr ""
+msgstr "Cấu hình tiện ích con tùy chỉnh"
 
 msgctxt "#31475"
 msgid "Netflix fanart window"
-msgstr ""
+msgstr "Cửa sổ fanart Netflix"
 
 msgctxt "#31476"
 msgid "Boxed Set"
-msgstr ""
+msgstr "Bộ Hộp"
 
 msgctxt "#31477"
 msgid "Widget 6"
-msgstr ""
+msgstr "Tiện ích con 6"
 
 msgctxt "#31478"
 msgid "Indicators"
-msgstr ""
+msgstr "Chỉ báo"
 
 msgctxt "#31479"
 msgid "Clear home menu bar"
-msgstr ""
+msgstr "Xóa thanh menu trang chủ"
 
 msgctxt "#31480"
 msgid "HDR"
-msgstr ""
+msgstr "HDR"
 
 msgctxt "#31481"
 msgid "Blu-ray / HD DVD / DVD / WEB-DL"
-msgstr ""
+msgstr "Blu-ray / HD DVD / DVD / WEB-DL"
 
 msgctxt "#31482"
 msgid "IMDB Top 250"
-msgstr ""
+msgstr "IMDB Top 250"
 
 msgctxt "#31483"
 msgid "Audio Channels"
-msgstr ""
+msgstr "Kênh Âm thanh"
 
 msgctxt "#31484"
 msgid "Spotlight widget path"
-msgstr ""
+msgstr "Đường dẫn tiện ích con tiêu điểm"
 
 msgctxt "#31485"
 msgid "Origin"
@@ -1923,99 +1923,99 @@ msgstr "Gốc"
 
 msgctxt "#31486"
 msgid "Trakt"
-msgstr ""
+msgstr "Trakt"
 
 msgctxt "#31487"
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgctxt "#31488"
 msgid "On focus don't slide left"
-msgstr ""
+msgstr "Khi được lấy nét, không trượt sang trái"
 
 msgctxt "#31489"
 msgid "Underlined homemenu items"
-msgstr ""
+msgstr "Các mục homemenu được gạch dưới"
 
 msgctxt "#31490"
 msgid "Auto scrolling widget title"
-msgstr ""
+msgstr "Tự động cuộn tiêu đề tiện ích con"
 
 msgctxt "#31491"
 msgid "Poster Flix v2"
-msgstr ""
+msgstr "Flix Áp phích v2"
 
 msgctxt "#31492"
 msgid "Paused"
-msgstr ""
+msgstr "Đã tạm dừng"
 
 msgctxt "#31493"
 msgid "Watched"
-msgstr ""
+msgstr "Đã xem"
 
 msgctxt "#31494"
 msgid "New!"
-msgstr ""
+msgstr "Mới!"
 
 msgctxt "#31495"
 msgid "Alternative indicators"
-msgstr ""
+msgstr "Chỉ báo thay thế"
 
 msgctxt "#31496"
 msgid "Label"
-msgstr ""
+msgstr "Nhãn"
 
 msgctxt "#31497"
 msgid "Movies by this director"
-msgstr ""
+msgstr "Phim của đạo diễn này"
 
 msgctxt "#31498"
 msgid "Collection"
-msgstr ""
+msgstr "Bộ sưu tập"
 
 msgctxt "#31499"
 msgid "Auto scrolling titles"
-msgstr ""
+msgstr "Tự động cuộn tiêu đề"
 
 msgctxt "#31500"
 msgid "Prefer percentage"
-msgstr ""
+msgstr "Ưu tiên phần trăm"
 
 msgctxt "#31501"
 msgid "Prefer local list information"
-msgstr ""
+msgstr "Ưu tiên thông tin danh sách cục bộ"
 
 msgctxt "#31502"
 msgid "On back, widgets do not return to initial position"
-msgstr ""
+msgstr "Khi quay lại, các tiện ích con không trở về vị trí ban đầu"
 
 msgctxt "#31503"
 msgid "On up, when at first widget, do not jump back to last widget"
-msgstr ""
+msgstr "Khi lên, ở tiện ích con đầu tiên, không nhảy lại tiện ích con cuối cùng"
 
 msgctxt "#31504"
 msgid "On down, when at last widget, widgets do not return to initial position"
-msgstr ""
+msgstr "Khi xuống, ở tiện ích con cuối cùng, các tiện ích con không trở về vị trí ban đầu"
 
 msgctxt "#31505"
 msgid "On up/down at first/last widget, go to last/first widget"
-msgstr ""
+msgstr "Khi lên/xuống ở tiện ích con đầu tiên/cuối cùng, đi tới tiện ích con cuối cùng/đầu tiên"
 
 msgctxt "#31506"
 msgid "More clean & minimal"
-msgstr ""
+msgstr "Gọn gàng & tối giản hơn"
 
 msgctxt "#31507"
 msgid "Layout options"
-msgstr ""
+msgstr "Tùy chọn bố cục"
 
 msgctxt "#31508"
 msgid "Global"
-msgstr ""
+msgstr "Toàn cầu"
 
 msgctxt "#31509"
 msgid "4K Movies"
-msgstr ""
+msgstr "Phim 4K"
 
 msgctxt "#31510"
 msgid "Recent recordings"
@@ -2023,19 +2023,19 @@ msgstr "Bản ghi gần đây"
 
 msgctxt "#31511"
 msgid "Grouped recent recordings"
-msgstr ""
+msgstr "Bản ghi gần đây được nhóm"
 
 msgctxt "#31512"
 msgid "Grouped deleted recordings"
-msgstr ""
+msgstr "Bản ghi đã xóa được nhóm"
 
 msgctxt "#31513"
 msgid "Override play function with TMDB helper play function"
-msgstr ""
+msgstr "Ghi đè chức năng phát bằng chức năng phát của TMDB helper"
 
 msgctxt "#31514"
 msgid "Show, if not empty"
-msgstr ""
+msgstr "Hiển thị, nếu không trống"
 
 msgctxt "#31515"
 msgid "Hide"
@@ -2043,403 +2043,403 @@ msgstr "Ẩn"
 
 msgctxt "#31516"
 msgid "Last Played Radio Channels"
-msgstr ""
+msgstr "Kênh Radio Vừa phát"
 
 msgctxt "#31517"
 msgid "Mini-EPG (vertical, only 5 Items)"
-msgstr ""
+msgstr "EPG Thu nhỏ (dọc, chỉ 5 Mục)"
 
 msgctxt "#31518"
 msgid "Unwatched Tv Shows"
-msgstr ""
+msgstr "Chương trình TV Chưa xem"
 
 msgctxt "#31519"
 msgid "Hide background of channel icon"
-msgstr ""
+msgstr "Ẩn nền của biểu tượng kênh"
 
 msgctxt "#31520"
 msgid "for"
-msgstr ""
+msgstr "cho"
 
 msgctxt "#31521"
 msgid "Poster Wall"
-msgstr ""
+msgstr "Tường Áp phích"
 
 msgctxt "#31522"
 msgid "Fanart Flix v2"
-msgstr ""
+msgstr "Flix Fanart v2"
 
 msgctxt "#31523"
 msgid "Fanart Flix"
-msgstr ""
+msgstr "Flix Fanart"
 
 msgctxt "#31524"
 msgid "IMDB Position"
-msgstr ""
+msgstr "Vị trí IMDB"
 
 msgctxt "#31525"
 msgid "Use default MPAA rating icons"
-msgstr ""
+msgstr "Sử dụng biểu tượng xếp hạng MPAA mặc định"
 
 msgctxt "#31526"
 msgid "Use default selectbox"
-msgstr ""
+msgstr "Sử dụng hộp chọn mặc định"
 
 msgctxt "#31527"
 msgid "Small Fanart"
-msgstr ""
+msgstr "Fanart Nhỏ"
 
 msgctxt "#31528"
 msgid "Small Thumbnail"
-msgstr ""
+msgstr "Hình thu nhỏ Nhỏ"
 
 msgctxt "#31529"
 msgid "Small Poster Thumbnail"
-msgstr ""
+msgstr "Hình thu nhỏ Áp phích Nhỏ"
 
 msgctxt "#31530"
 msgid "Seasons Info v2"
-msgstr ""
+msgstr "Thông tin Phần phim v2"
 
 msgctxt "#31531"
 msgid "Up Next Addon"
-msgstr ""
+msgstr "Addon Tiếp theo"
 
 msgctxt "#31532"
 msgid "Use thumbnail instead of fanart"
-msgstr ""
+msgstr "Sử dụng hình thu nhỏ thay vì fanart"
 
 msgctxt "#31533"
 msgid "Clean and minimal"
-msgstr ""
+msgstr "Gọn gàng và tối giản"
 
 msgctxt "#31535"
 msgid "Hide plot, when widget is not focused"
-msgstr ""
+msgstr "Ẩn cốt truyện, khi tiện ích con không được lấy nét"
 
 msgctxt "#31536"
 msgid "Audio streams"
-msgstr ""
+msgstr "Luồng âm thanh"
 
 msgctxt "#31537"
 msgid "Info slider"
-msgstr ""
+msgstr "Thanh trượt thông tin"
 
 msgctxt "#31538"
 msgid "Blur radius"
-msgstr ""
+msgstr "Bán kính làm mờ"
 
 msgctxt "#31539"
 msgid "Blend (0-100%)"
-msgstr ""
+msgstr "Trộn (0-100%)"
 
 msgctxt "#31540"
 msgid "Image quality"
-msgstr ""
+msgstr "Chất lượng hình ảnh"
 
 msgctxt "#31541"
 msgid "Bitsize"
-msgstr ""
+msgstr "Kích thước bit"
 
 msgctxt "#31542"
 msgid "Blur quality"
-msgstr ""
+msgstr "Chất lượng làm mờ"
 
 msgctxt "#31543"
 msgid "Use colorbox script"
-msgstr ""
+msgstr "Sử dụng tập lệnh colorbox"
 
 msgctxt "#31550"
 msgid "Additional fanart"
-msgstr ""
+msgstr "Fanart bổ sung"
 
 msgctxt "#31551"
 msgid "Try to lock skin colors/theme/fonts"
-msgstr ""
+msgstr "Cố gắng khóa màu sắc/chủ đề/phông chữ của giao diện"
 
 msgctxt "#31553"
 msgid "Show logo AZR in settings"
-msgstr ""
+msgstr "Hiển thị logo AZR trong phần cài đặt"
 
 msgctxt "#31554"
 msgid "HD Movies"
-msgstr ""
+msgstr "Phim HD"
 
 msgctxt "#31555"
 msgid "Hide, when not focused"
-msgstr ""
+msgstr "Ẩn, khi không được lấy nét"
 
 msgctxt "#31556"
 msgid "Hide, when not focused/used"
-msgstr ""
+msgstr "Ẩn, khi không được lấy nét/sử dụng"
 
 msgctxt "#31557"
 msgid "Hide seekbar"
-msgstr ""
+msgstr "Ẩn thanh tìm kiếm"
 
 msgctxt "#31558"
 msgid "Hide OSD"
-msgstr ""
+msgstr "Ẩn OSD"
 
 msgctxt "#31559"
 msgid "Scrolling text"
-msgstr ""
+msgstr "Văn bản cuộn"
 
 msgctxt "#31560"
 msgid "Numeric rating"
-msgstr ""
+msgstr "Xếp hạng bằng số"
 
 msgctxt "#31561"
 msgid "Artist slideshow"
-msgstr ""
+msgstr "Trình chiếu ảnh nghệ sĩ"
 
 msgctxt "#31562"
 msgid "Reflections"
-msgstr ""
+msgstr "Hình phản chiếu"
 
 msgctxt "#31563"
 msgid "Borders"
-msgstr ""
+msgstr "Viền"
 
 msgctxt "#31564"
 msgid "Low list"
-msgstr ""
+msgstr "Danh sách thấp"
 
 msgctxt "#31565"
 msgid "Filenames"
-msgstr ""
+msgstr "Tên tập tin"
 
 msgctxt "#31566"
 msgid "CD and case"
-msgstr ""
+msgstr "CD và vỏ"
 
 msgctxt "#31567"
 msgid "Fallback image"
-msgstr ""
+msgstr "Hình ảnh dự phòng"
 
 msgctxt "#31568"
 msgid "ClearLogo/Art"
-msgstr ""
+msgstr "ClearLogo/Art"
 
 msgctxt "#31569"
 msgid "Clearlogo instead of title"
-msgstr ""
+msgstr "Clearlogo thay vì tiêu đề"
 
 msgctxt "#31570"
 msgid "Icon media flags"
-msgstr ""
+msgstr "Cờ thông tin đa phương tiện biểu tượng"
 
 msgctxt "#31571"
 msgid "Media flags"
-msgstr ""
+msgstr "Cờ đa phương tiện"
 
 msgctxt "#31572"
 msgid "Play/pause info"
-msgstr ""
+msgstr "Thông tin phát/tạm dừng"
 
 msgctxt "#31573"
 msgid "Clock"
-msgstr ""
+msgstr "Đồng hồ"
 
 msgctxt "#31574"
 msgid "PVR technical info"
-msgstr ""
+msgstr "Thông tin kỹ thuật PVR"
 
 msgctxt "#31575"
 msgid "Default selectbox"
-msgstr ""
+msgstr "Hộp chọn mặc định"
 
 msgctxt "#31576"
 msgid "Scrollbar"
-msgstr ""
+msgstr "Thanh cuộn"
 
 msgctxt "#31577"
 msgid "Progress graphic"
-msgstr ""
+msgstr "Đồ họa tiến trình"
 
 msgctxt "#31578"
 msgid "Hide widget label"
-msgstr ""
+msgstr "Ẩn nhãn tiện ích con"
 
 msgctxt "#31579"
 msgid "Pixelsize"
-msgstr ""
+msgstr "Kích thước pixel"
 
 msgctxt "#31580"
 msgid "Effect settings"
-msgstr ""
+msgstr "Cài đặt hiệu ứng"
 
 msgctxt "#31581"
 msgid "Enable blur / twotone / pixelate"
-msgstr ""
+msgstr "Bật làm mờ / hai tông màu / tạo pixel"
 
 msgctxt "#31582"
 msgid "Effect"
-msgstr ""
+msgstr "Hiệu ứng"
 
 msgctxt "#31583"
 msgid "Show behind slideshow"
-msgstr ""
+msgstr "Hiển thị phía sau trình chiếu ảnh"
 
 msgctxt "#31584"
 msgid "Make focused items glow"
-msgstr ""
+msgstr "Làm cho các mục được lấy nét phát sáng"
 
 msgctxt "#31585"
 msgid "Zoom focused items"
-msgstr ""
+msgstr "Thu phóng các mục được lấy nét"
 
 msgctxt "#31586"
 msgid "low"
-msgstr ""
+msgstr "thấp"
 
 msgctxt "#31587"
 msgid "medium"
-msgstr ""
+msgstr "vừa"
 
 msgctxt "#31588"
 msgid "high"
-msgstr ""
+msgstr "cao"
 
 msgctxt "#31589"
 msgid "Enable auto scrolling for titles"
-msgstr ""
+msgstr "Bật tự động cuộn cho tiêu đề"
 
 msgctxt "#31590"
 msgid "Glow intensity of focused items"
-msgstr ""
+msgstr "Cường độ phát sáng của các mục được lấy nét"
 
 msgctxt "#31591"
 msgid "V2"
-msgstr ""
+msgstr "V2"
 
 msgctxt "#31592"
 msgid "List type"
-msgstr ""
+msgstr "Loại danh sách"
 
 msgctxt "#31593"
 msgid "Enable auto playing trailers in flix views"
-msgstr ""
+msgstr "Bật tự động phát đoạn phim quảng cáo trong chế độ xem flix"
 
 msgctxt "#31594"
 msgid "Stop playback on next"
-msgstr ""
+msgstr "Dừng phát lại vào lần tiếp theo"
 
 msgctxt "#31595"
 msgid "Try to hide black bars"
-msgstr ""
+msgstr "Cố gắng ẩn các thanh đen"
 
 msgctxt "#31596"
 msgid "playing"
-msgstr ""
+msgstr "đang phát"
 
 msgctxt "#31597"
 msgid "paused"
-msgstr ""
+msgstr "đã tạm dừng"
 
 msgctxt "#31598"
 msgid "caching"
-msgstr ""
+msgstr "đang lưu vào bộ nhớ đệm"
 
 msgctxt "#31599"
 msgid "Auto start delay"
-msgstr ""
+msgstr "Độ trễ tự động bắt đầu"
 
 msgctxt "#31600"
 msgid "Use old widget movement"
-msgstr ""
+msgstr "Sử dụng chuyển động tiện ích con cũ"
 
 msgctxt "#31603"
 msgid "Auto playing trailers"
-msgstr ""
+msgstr "Đoạn phim quảng cáo tự động phát"
 
 msgctxt "#31604"
 msgid "None"
-msgstr ""
+msgstr "Không có"
 
 msgctxt "#31605"
 msgid "Medium"
-msgstr ""
+msgstr "Vừa"
 
 msgctxt "#31606"
 msgid "Maximal"
-msgstr ""
+msgstr "Tối đa"
 
 msgctxt "#31607"
 msgid "On back, jump to first item in widget list"
-msgstr ""
+msgstr "Khi quay lại, chuyển đến mục đầu tiên trong danh sách tiện ích con"
 
 msgctxt "#31608"
 msgid "After that, focus home menu"
-msgstr ""
+msgstr "Sau đó, lấy nét menu trang chủ"
 
 msgctxt "#31623"
 msgid "If home menu is focused, jump to widgets on back"
-msgstr ""
+msgstr "Nếu menu trang chủ được lấy nét, hãy chuyển đến các tiện ích con khi quay lại"
 
 msgctxt "#31625"
 msgid "Disable addons fanart"
-msgstr ""
+msgstr "Tắt fanart addon"
 
 msgctxt "#31626"
 msgid "Only, when widget is focused"
-msgstr ""
+msgstr "Chỉ khi tiện ích con được lấy nét"
 
 msgctxt "#31628"
 msgid "Hide mouse warning"
-msgstr ""
+msgstr "Ẩn cảnh báo chuột"
 
 msgctxt "#31629"
 msgid "EDL markers"
-msgstr ""
+msgstr "Điểm đánh dấu EDL"
 
 msgctxt "#31630"
 msgid "Hub widget content type"
-msgstr ""
+msgstr "Loại nội dung của tiện ích con trung tâm"
 
 msgctxt "#31631"
 msgid "Playback action when video info dialog is shown"
-msgstr ""
+msgstr "Hành động phát khi hộp thoại thông tin video được hiển thị"
 
 msgctxt "#31632"
 msgid "Stop playback when item is no longer focused"
-msgstr ""
+msgstr "Dừng phát khi mục không còn được lấy nét"
 
 msgctxt "#31643"
 msgid "LibreELEC Settings"
-msgstr ""
+msgstr "Cài đặt LibreELEC"
 
 msgctxt "#31650"
 msgid "Is playing"
-msgstr ""
+msgstr "Đang phát"
 
 msgctxt "#31651"
 msgid "Icon"
-msgstr ""
+msgstr "Biểu tượng"
 
 msgctxt "#31652"
 msgid "Use embuary helper instead of litebox"
-msgstr ""
+msgstr "Sử dụng embuary helper thay vì litebox"
 
 msgctxt "#31653"
 msgid "blur"
-msgstr ""
+msgstr "làm mờ"
 
 msgctxt "#31654"
 msgid "Disable reflections"
-msgstr ""
+msgstr "Tắt hình phản chiếu"
 
 msgctxt "#31655"
 msgid "For lower cpu's"
-msgstr ""
+msgstr "Dành cho cpu thấp hơn"
 
 msgctxt "#31656"
 msgid "Disable borders"
-msgstr ""
+msgstr "Tắt viền"
 
 msgctxt "#31657"
 msgid "Theme background image"
-msgstr ""
+msgstr "Hình nền chủ đề"
 
 msgctxt "#31658"
 msgid "Now playing"
@@ -2447,63 +2447,63 @@ msgstr "Đang phát"
 
 msgctxt "#31663"
 msgid "Now playing..."
-msgstr ""
+msgstr "Đang phát..."
 
 msgctxt "#31664"
 msgid "User rating overrides"
-msgstr ""
+msgstr "Ghi đè xếp hạng của người dùng"
 
 msgctxt "#31666"
 msgid "Star rating and value"
-msgstr ""
+msgstr "Sao xếp hạng và giá trị"
 
 msgctxt "#31667"
 msgid "Animated artwork"
-msgstr ""
+msgstr "Hình ảnh mỹ thuật động"
 
 msgctxt "#31668"
 msgid "Path to additional animated posters"
-msgstr ""
+msgstr "Đường dẫn đến các áp phích động bổ sung"
 
 msgctxt "#31670"
 msgid "Show player controls"
-msgstr ""
+msgstr "Hiển thị các nút điều khiển trình phát"
 
 msgctxt "#31671"
 msgid "On right"
-msgstr ""
+msgstr "Bên phải"
 
 msgctxt "#31672"
 msgid "On up"
-msgstr ""
+msgstr "Bên trên"
 
 msgctxt "#31673"
 msgid "Show clearart"
-msgstr ""
+msgstr "Hiển thị clearart"
 
 msgctxt "#31674"
 msgid "Critics consensus"
-msgstr ""
+msgstr "Đồng thuận của giới phê bình"
 
 msgctxt "#31675"
 msgid "Use artwork module for PVR artwork"
-msgstr ""
+msgstr "Sử dụng mô-đun hình ảnh mỹ thuật cho hình ảnh mỹ thuật PVR"
 
 msgctxt "#31676"
 msgid "Ratings"
-msgstr ""
+msgstr "Xếp hạng"
 
 msgctxt "#31677"
 msgid "Show detailed info when video starts (in seconds)"
-msgstr ""
+msgstr "Hiển thị thông tin chi tiết khi video bắt đầu (tính bằng giây)"
 
 msgctxt "#31678"
 msgid "Customized"
-msgstr ""
+msgstr "Đã tùy chỉnh"
 
 msgctxt "#31679"
 msgid "Color presets"
-msgstr ""
+msgstr "Cài đặt sẵn màu"
 
 msgctxt "#31680"
 msgid "Preset"
@@ -2511,39 +2511,39 @@ msgstr "Mẫu thiết lập"
 
 msgctxt "#31681"
 msgid "Sunny pink"
-msgstr ""
+msgstr "Hồng nắng"
 
 msgctxt "#31682"
 msgid "Sky blue"
-msgstr ""
+msgstr "Xanh da trời"
 
 msgctxt "#31683"
 msgid "Fruity orange"
-msgstr ""
+msgstr "Cam trái cây"
 
 msgctxt "#31684"
 msgid "Aqua blue"
-msgstr ""
+msgstr "Xanh nước biển"
 
 msgctxt "#31685"
 msgid "Light green"
-msgstr ""
+msgstr "Xanh nhạt"
 
 msgctxt "#31686"
 msgid "Steel gray"
-msgstr ""
+msgstr "Xám thép"
 
 msgctxt "#31687"
 msgid "Save color configuration"
-msgstr ""
+msgstr "Lưu cấu hình màu"
 
 msgctxt "#31688"
 msgid "Overwrite existing color configuration?"
-msgstr ""
+msgstr "Ghi đè cấu hình màu hiện có?"
 
 msgctxt "#31689"
 msgid "Hide PVR recording dialog"
-msgstr ""
+msgstr "Ẩn hộp thoại ghi hình PVR"
 
 msgctxt "#31690"
 msgid "Player"
@@ -2551,56 +2551,56 @@ msgstr "Trình phát"
 
 msgctxt "#31691"
 msgid "Players"
-msgstr ""
+msgstr "Người chơi"
 
 msgctxt "#31692"
 msgid "Local"
-msgstr ""
+msgstr "Cục bộ"
 
 msgctxt "#31693"
 msgid "Online"
-msgstr ""
+msgstr "Trực tuyến"
 
 msgctxt "#31694"
 msgid "Game studio/flag icons"
-msgstr ""
+msgstr "Biểu tượng hãng phim/cờ game"
 
 msgctxt "#31699"
 msgid "Pick a color..."
-msgstr ""
+msgstr "Chọn một màu..."
 
 msgctxt "#31700"
 msgid "Set color"
-msgstr ""
+msgstr "Đặt màu"
 
 msgctxt "#31701"
 msgid "Color palette"
-msgstr ""
+msgstr "Bảng màu"
 
 msgctxt "#31702"
 msgid "Use thumb for episodes background"
-msgstr ""
+msgstr "Sử dụng ngón tay cái làm nền tập phim"
 
 msgctxt "#31703"
 msgid "Small landscape"
-msgstr ""
+msgstr "Ảnh ngang nhỏ"
 
 msgctxt "#31704"
 msgid "Small fanart"
-msgstr ""
+msgstr "Fanart nhỏ"
 
 msgctxt "#31705"
 msgid "Small poster fanart"
-msgstr ""
+msgstr "Fanart áp phích nhỏ"
 
 msgctxt "#31707"
 msgid "Rating stars"
-msgstr ""
+msgstr "Sao xếp hạng"
 
 msgctxt "#31708"
 msgid "Auto show now playing info after 5 seconds delay if hidden"
-msgstr ""
+msgstr "Tự động hiển thị thông tin đang phát sau độ trễ 5 giây nếu bị ẩn"
 
 msgctxt "#31709"
 msgid "Only hide menu items"
-msgstr ""
+msgstr "Chỉ ẩn các mục menu"
