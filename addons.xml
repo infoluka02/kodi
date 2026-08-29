@@ -513,6 +513,21 @@
 		<disclaimer lang="zh_CN">此插件库中插件并不完全由 Kodi 团队制作，对相关内容不承担责任</disclaimer>
 		<disclaimer lang="zh_TW">這個附加元件庫的附加元件並非全部由 Kodi 團隊製作的，所以我們不對這些內容負責。</disclaimer>
 	</extension>
+</addon><addon id="resource.fonts.mrt" name="Mr T Extra Fonts" version="1.0.0" provider-name="MrT">
+    <requires>
+        <import addon="kodi.resource" version="1.0.0" />
+    </requires>
+    <extension point="kodi.resource.font" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <license>OFL-1.1</license>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+        <summary lang="en_GB">Font Tiếng việt cho kodi</summary>
+        <description lang="en_GB">Font Tiếng việt cho kodi</description>
+    </extension>
 </addon><addon id="script.elementum.burst" name="Elementum [COLOR FFFF6B00]Burst[/COLOR]" version="0.0.99" provider-name="elgatito">
     <requires>
         <import addon="xbmc.addon" version="16.0.0" />
