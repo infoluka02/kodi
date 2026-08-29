@@ -8,4 +8,5 @@
     <rule field="numepisodes" operator="greaterthan">
         <value>0</value>
     </rule>
+    <limit>100</limit>
 </smartplaylist>

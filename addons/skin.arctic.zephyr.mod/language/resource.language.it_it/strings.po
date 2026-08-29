@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Skins\n"
-"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-12-14 13:02+0000\n"
+"PO-Revision-Date: 2023-05-22 14:42+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-arctic-zephyr-mod/it_it/>\n"
 "Language: it_it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 4.17\n"
 
 msgctxt "#31000"
 msgid "Limit number of items in widget"
@@ -2103,7 +2103,7 @@ msgstr "Seasons Info v2"
 
 msgctxt "#31531"
 msgid "Up Next Addon"
-msgstr "Add-on Up Next"
+msgstr "Prossimo add-on"
 
 msgctxt "#31532"
 msgid "Use thumbnail instead of fanart"
@@ -2593,10 +2593,6 @@ msgctxt "#31705"
 msgid "Small poster fanart"
 msgstr "Poster fanart piccolo"
 
-msgctxt "#31706"
-msgid "Use keyart instead of poster"
-msgstr "Usa keyart invece del poster"
-
 msgctxt "#31707"
 msgid "Rating stars"
 msgstr "Stelle di valutazione"
@@ -2608,30 +2604,6 @@ msgstr "Mostra automaticamente le informazioni sulla riproduzione attuale dopo 5
 msgctxt "#31709"
 msgid "Only hide menu items"
 msgstr "Nascondi solo voci di menu"
-
-msgctxt "#31711"
-msgid "Wikipedia"
-msgstr "Wikipedia"
-
-msgctxt "#31718"
-msgid "Sandy yellow"
-msgstr "Giallo sabbia"
-
-#~ msgctxt "#31719"
-#~ msgid "Add version"
-#~ msgstr "Aggiungi versione"
-
-#~ msgctxt "#31720"
-#~ msgid "Add extras"
-#~ msgstr "Aggiungi extra"
-
-#~ msgctxt "#31721"
-#~ msgid "Set default"
-#~ msgstr "Imposta predefinito"
-
-#~ msgctxt "#31722"
-#~ msgid "Extras"
-#~ msgstr "Extra"
 
 #~ msgctxt "#31703"
 #~ msgid "Small Landscape"

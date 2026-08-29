@@ -21,8 +21,7 @@
             <control type="image" description="clearlogo">
                 <visible>$EXP[TitleClearlogoAvailable] + Skin.HasSetting(504clearlogo)</visible>
                 <top>205</top>
-                <height>ClearLogoMaxHeight</height>
-                <width>ClearLogoMaxWidth</width>
+                <height>102</height>
                 <left>SidePad</left>
                 <aspectratio scalediffuse="true" align="left">keep</aspectratio>
                 <texture background="true">$VAR[ClearLogoTopVar]</texture>

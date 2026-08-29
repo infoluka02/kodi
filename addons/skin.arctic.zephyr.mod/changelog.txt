@@ -1,25 +1,3 @@
-[B]3.0.3[/B]
-Fixed issue with tv show indicators
-
-[B]3.0.2[/B]
-Added preshow experience support
-Language updates
-
-[B]3.0.1[/B]
-Minor adjustments
-Language updates
-
-[B]3.0.0[/B]
-Kodi Omega version
-
-[B]2.0.5[/B]
-Fixed possible issue with media flags
-Added wikipedia script support
-Added option to use keyart instead of poster
-Jumpbar improvements
-Code improvements
-Minor adjustments
-
 [B]2.0.4[/B]
 Minor adjustments
 Language updates
